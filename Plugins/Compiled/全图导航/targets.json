@@ -1,0 +1,2297 @@
+{
+  "*": [
+    {
+      "Name": "waypoint",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "npc1",
+      "ExpectedCount": 1,
+      "DisplayName": "誓约破坏者-术士[狂野/紫色]"
+    },
+    {
+      "Name": "npc2",
+      "ExpectedCount": 1,
+      "DisplayName": "树篱守护者-玛姬[生动/黄色]"
+    },
+    {
+      "Name": "npc3",
+      "ExpectedCount": 1,
+      "DisplayName": "原始猎手-原始主义者[原始/蓝色]"
+    },
+    {
+      "Name": "sticksinmud",
+      "ExpectedCount": 1,
+      "DisplayName": "血淋淋的战利品[狂野/紫色]-尸体战利品"
+    },
+    {
+      "Name": "boneyard",
+      "ExpectedCount": 1,
+      "DisplayName": "骨冢[原始/蓝色]-50/50怪物和战利品"
+    },
+    {
+      "Name": "stonehenge",
+      "ExpectedCount": 1,
+      "DisplayName": "巨石阵[生动/黄色]"
+    },
+    {
+      "Name": "witchorb",
+      "ExpectedCount": 1,
+      "DisplayName": "第三个玛姬任务"
+    },
+    {
+      "Name": "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/arenaTransition_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "Boss要塞"
+    }
+  ],
+  "2_6_2": [
+    {
+      "Name": "beachtownnorth",
+      "ExpectedCount": 1,
+      "DisplayName": "狮眼守望"
+    },
+    {
+      "Name": "block",
+      "ExpectedCount": 1,
+      "DisplayName": "区域传送"
+    }
+  ],
+  "1_1_2": [
+    {
+      "Name": "beachtownnorth",
+      "ExpectedCount": 1,
+      "DisplayName": "狮眼守望"
+    },
+    {
+      "Name": "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_area2_transition_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "炙热盐沼"
+    },
+    {
+      "Name": "karui",
+      "ExpectedCount": 2,
+      "DisplayName": "海潮孤岛"
+    }
+  ],
+  "1_1_2a": [
+    {
+      "Name": "karui",
+      "ExpectedCount": 1,
+      "DisplayName": "暮光海滩"
+    },
+    {
+      "Name": "medicineboat",
+      "ExpectedCount": 1,
+      "DisplayName": "海妖哈尔"
+    }
+  ],
+  "1_1_3": [
+    {
+      "Name": "watercave",
+      "ExpectedCount": 1,
+      "DisplayName": "海潮地穴"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "恶水池"
+    },
+    {
+      "Name": "rhoanest",
+      "ExpectedCount": 3,
+      "DisplayName": "罗亚鸟巢"
+    }
+  ],
+  "1_1_3a": [
+    {
+      "Name": "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_beach_toswamp_fetid_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "炙热盐沼"
+    }
+  ],
+  "1_1_4_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "炙热盐沼"
+    },
+    {
+      "Name": "towaterydepths",
+      "ExpectedCount": 1,
+      "DisplayName": "水声之渊"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 1,
+      "DisplayName": "沉寂海崖"
+    }
+  ],
+  "1_1_5": [
+    {
+      "Name": "caveentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "海潮地穴"
+    },
+    {
+      "Name": "passageway",
+      "ExpectedCount": 1,
+      "DisplayName": "碎岩山坡"
+    }
+  ],
+  "1_1_6": [
+    {
+      "Name": "prisonback",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱下层"
+    },
+    {
+      "Name": "passageway",
+      "ExpectedCount": 1,
+      "DisplayName": "沉寂海崖"
+    }
+  ],
+  "1_1_7_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "碎岩山坡"
+    },
+    {
+      "Name": "LabyrinthDoor",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱上层"
+    }
+  ],
+  "1_1_7_2": [
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 1,
+      "DisplayName": "典狱长房间"
+    },
+    {
+      "Name": "bossentrance2",
+      "ExpectedCount": 1,
+      "DisplayName": "典狱长密室"
+    },
+    {
+      "Name": "exitdoor",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱大门"
+    },
+    {
+      "Name": "entrancedown",
+      "ExpectedCount": 2,
+      "DisplayName": "区域传送"
+    },
+    {
+      "Name": "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "药剂保险箱"
+    }
+  ],
+  "1_1_8": [
+    {
+      "Name": "shippassagea",
+      "ExpectedCount": 1,
+      "DisplayName": "魅影船墓"
+    }
+  ],
+  "1_1_9": [
+    {
+      "Name": "shipwreckquest",
+      "ExpectedCount": 1,
+      "DisplayName": "费尔格雷船长"
+    },
+    {
+      "Name": "shipentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "船墓洞穴"
+    },
+    {
+      "Name": "shippassageb",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱大门"
+    },
+    {
+      "Name": "skeletoncave",
+      "ExpectedCount": 1,
+      "DisplayName": "怨忿之窟"
+    },
+    {
+      "Name": "skeletoncavecliff",
+      "ExpectedCount": 1,
+      "DisplayName": "怨忿之窟"
+    }
+  ],
+  "1_1_9a": [
+    {
+      "Name": "boatallflame",
+      "ExpectedCount": 1,
+      "DisplayName": "全焰"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 2,
+      "DisplayName": "传送"
+    }
+  ],
+  "1_1_11_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "船墓"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 1,
+      "DisplayName": "怨忿之窟深处"
+    }
+  ],
+  "1_1_11_2": [
+    {
+      "Name": "entrancedown",
+      "ExpectedCount": 1,
+      "DisplayName": "怨忿之窟"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 1,
+      "DisplayName": "莫薇儿的巢穴"
+    },
+    {
+      "Name": "entrancedownboss",
+      "ExpectedCount": 1,
+      "DisplayName": "怨忿之窟"
+    },
+    {
+      "Name": "mervexit",
+      "ExpectedCount": 1,
+      "DisplayName": "南部森林"
+    }
+  ],
+  "1_2_1": [
+    {
+      "Name": "foresttowndock",
+      "ExpectedCount": 1,
+      "DisplayName": "森林营地"
+    }
+  ],
+  "1_2_2": [
+    {
+      "Name": "foresttownright",
+      "ExpectedCount": 1,
+      "DisplayName": "森林营地"
+    },
+    {
+      "Name": "gatetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "cave",
+      "ExpectedCount": 1,
+      "DisplayName": "兽穴"
+    }
+  ],
+  "1_2_2a": [
+    {
+      "Name": "exitup",
+      "ExpectedCount": 1,
+      "DisplayName": "出口"
+    }
+  ],
+  "1_2_3": [
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "断桥"
+    },
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿一层"
+    },
+    {
+      "Name": "gatetransitionReverse",
+      "ExpectedCount": 2,
+      "DisplayName": "传送"
+    }
+  ],
+  "1_2_15": [
+    {
+      "Name": "gatetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "静谧陵墓一层"
+    },
+    {
+      "Name": "Metadata/Terrain/Leagues/Sanctum/Foyer/Tiles/reaper_entrance.tdt",
+      "ExpectedCount": 3,
+      "DisplayName": "雕像"
+    }
+  ],
+  "1_2_5_1": [
+    {
+      "Name": "exitdown",
+      "ExpectedCount": 1,
+      "DisplayName": "静谧陵墓二层"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "堕道遗迹"
+    },
+    {
+      "Name": "LabyrinthDoor",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    }
+  ],
+  "1_2_5_2": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "静谧陵墓一层"
+    },
+    {
+      "Name": "handaltar",
+      "ExpectedCount": 1,
+      "DisplayName": "祭坛"
+    }
+  ],
+  "1_2_6_1": [
+    {
+      "Name": "outentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "exitdown",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿二层"
+    }
+  ],
+  "1_2_6_2": [
+    {
+      "Name": "exitup",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿一层"
+    },
+    {
+      "Name": "narrow_door",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "questcart",
+      "ExpectedCount": 1,
+      "DisplayName": "菲迪利塔斯"
+    },
+    {
+      "Name": "pit",
+      "ExpectedCount": 1,
+      "DisplayName": "宝石"
+    }
+  ],
+  "1_2_4": [
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "brokenbridge",
+      "ExpectedCount": 1,
+      "DisplayName": "克雷顿"
+    }
+  ],
+  "1_2_7": [
+    {
+      "Name": "foresttownleft",
+      "ExpectedCount": 1,
+      "DisplayName": "森林营地"
+    },
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "湿地"
+    },
+    {
+      "Name": "tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "西部森林"
+    }
+  ],
+  "1_2_9": [
+    {
+      "Name": "tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "河道"
+    },
+    {
+      "Name": "spidergroveentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "蛛丝巢穴"
+    },
+    {
+      "Name": "witcharena",
+      "ExpectedCount": 1,
+      "DisplayName": "阿莉亚"
+    },
+    {
+      "Name": "passage",
+      "ExpectedCount": 1,
+      "DisplayName": "天赋点"
+    }
+  ],
+  "1_2_10": [
+    {
+      "Name": "exitlit",
+      "ExpectedCount": 1,
+      "DisplayName": "西部森林"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 2,
+      "DisplayName": "蛛网巢穴"
+    }
+  ],
+  "1_2_12": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔废墟"
+    },
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "河道"
+    },
+    {
+      "Name": "oakgate",
+      "ExpectedCount": 1,
+      "DisplayName": "欧克"
+    }
+  ],
+  "1_2_11": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 2,
+      "DisplayName": "区域传送"
+    },
+    {
+      "Name": "boss",
+      "ExpectedCount": 1,
+      "DisplayName": "远古封印"
+    }
+  ],
+  "1_2_8": [
+    {
+      "Name": "incaexit",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔废墟"
+    },
+    {
+      "Name": "waterfallcave",
+      "ExpectedCount": 1,
+      "DisplayName": "瀑布洞穴"
+    },
+    {
+      "Name": "groveentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "惊魂树洞"
+    }
+  ],
+  "1_2_13": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "出口"
+    },
+    {
+      "Name": "cave",
+      "ExpectedCount": 1,
+      "DisplayName": "葱郁藏身处"
+    }
+  ],
+  "1_2_14_2": [
+    {
+      "Name": "exitdown",
+      "ExpectedCount": 1,
+      "DisplayName": "北部森林"
+    },
+    {
+      "Name": "Metadata/Terrain/Dungeon/Features/dungeon_inca_exit_boss_v01_01.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "传送"
+    },
+    {
+      "Name": "stairsup",
+      "ExpectedCount": 1,
+      "DisplayName": "远古金字塔"
+    }
+  ],
+  "1_2_14_3": [
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 3,
+      "DisplayName": "下行楼梯"
+    },
+    {
+      "Name": "stairsup",
+      "ExpectedCount": 3,
+      "DisplayName": "上行楼梯"
+    },
+    {
+      "Name": "emerge",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔"
+    },
+    {
+      "Name": "exitdoor",
+      "ExpectedCount": 1,
+      "DisplayName": "萨恩城"
+    }
+  ],
+  "1_3_1": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "萨恩营地"
+    }
+  ],
+  "1_3_2": [
+    {
+      "Name": "slumsentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "萨恩营地"
+    },
+    {
+      "Name": "sewer",
+      "ExpectedCount": 1,
+      "DisplayName": "下水道"
+    },
+    {
+      "Name": "prison",
+      "ExpectedCount": 1,
+      "DisplayName": "火葬场"
+    }
+  ],
+  "1_3_3_1": [
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 1,
+      "DisplayName": "贫民窟"
+    },
+    {
+      "Name": "LabyrinthDoor",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "questmarker",
+      "ExpectedCount": 1,
+      "DisplayName": "派蒂"
+    }
+  ],
+  "1_3_10_1": [
+    {
+      "Name": "stash",
+      "ExpectedCount": 3,
+      "DisplayName": "白金半身像"
+    },
+    {
+      "Name": "endexit",
+      "ExpectedCount": 1,
+      "DisplayName": "贫民窟"
+    },
+    {
+      "Name": "sewerentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "市集地带"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "乌旗守卫兵营"
+    }
+  ],
+  "1_3_5": [
+    {
+      "Name": "churchentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "黑石陵墓"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "激战广场"
+    },
+    {
+      "Name": "sewer",
+      "ExpectedCount": 1,
+      "DisplayName": "下水道"
+    },
+    {
+      "Name": "decanter",
+      "ExpectedCount": 1,
+      "DisplayName": "灵魂圣器"
+    }
+  ],
+  "1_3_6": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "市集地带"
+    },
+    {
+      "Name": "LabyrinthDoor",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    }
+  ],
+  "1_3_7": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "不朽海港"
+    },
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿一层"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "市集地带"
+    },
+    {
+      "Name": "brokenbridge",
+      "ExpectedCount": 1,
+      "DisplayName": "黑卫宝箱"
+    }
+  ],
+  "1_3_9": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "激战广场"
+    },
+    {
+      "Name": "questcart",
+      "ExpectedCount": 1,
+      "DisplayName": "补给箱"
+    }
+  ],
+  "1_3_8_1": [
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "激战广场"
+    },
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿二层"
+    }
+  ],
+  "1_3_8_2": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿一层"
+    },
+    {
+      "Name": "queenchair",
+      "ExpectedCount": 1,
+      "DisplayName": "黛拉夫人"
+    }
+  ],
+  "1_3_13": [
+    {
+      "Name": "sewers",
+      "ExpectedCount": 1,
+      "DisplayName": "下水道"
+    },
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "月影神殿一层"
+    },
+    {
+      "Name": "largetent",
+      "ExpectedCount": 1,
+      "DisplayName": "格拉维奇将军"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "皇家花园"
+    }
+  ],
+  "1_3_14_1": [
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "乌旗守卫兵营"
+    },
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 1,
+      "DisplayName": "月影神殿二层"
+    }
+  ],
+  "1_3_14_2": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "月影神殿一层"
+    },
+    {
+      "Name": "roundtopcenter",
+      "ExpectedCount": 1,
+      "DisplayName": "派蒂"
+    }
+  ],
+  "1_3_15": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "乌旗守卫兵营"
+    },
+    {
+      "Name": "epic",
+      "ExpectedCount": 1,
+      "DisplayName": "神权之塔"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "图书馆"
+    },
+    {
+      "Name": "3x1_gateway",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "fruit",
+      "ExpectedCount": 1,
+      "DisplayName": "李子"
+    }
+  ],
+  "1_3_17_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "皇家花园"
+    },
+    {
+      "Name": "siosa",
+      "ExpectedCount": 1,
+      "DisplayName": "西奥萨"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "档案室"
+    }
+  ],
+  "1_3_17_2": [
+    {
+      "Name": "entrancebook",
+      "ExpectedCount": 1,
+      "DisplayName": "图书馆"
+    },
+    {
+      "Name": "large",
+      "ExpectedCount": 4,
+      "DisplayName": "书架"
+    }
+  ],
+  "1_3_18_1": [
+    {
+      "Name": "epic",
+      "ExpectedCount": 1,
+      "DisplayName": "皇家花园"
+    },
+    {
+      "Name": "up",
+      "ExpectedCount": 3,
+      "DisplayName": "上行楼梯"
+    },
+    {
+      "Name": "down",
+      "ExpectedCount": 2,
+      "DisplayName": "下行楼梯"
+    }
+  ],
+  "1_3_18_2": [
+    {
+      "Name": "down",
+      "ExpectedCount": 3,
+      "DisplayName": "下行楼梯"
+    },
+    {
+      "Name": "up",
+      "ExpectedCount": 2,
+      "DisplayName": "上行楼梯"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "多里亚尼"
+    }
+  ],
+  "1_4_1": [
+    {
+      "Name": "townconnection",
+      "ExpectedCount": 1,
+      "DisplayName": "统治者之殿"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "waterwheel",
+      "ExpectedCount": 1,
+      "DisplayName": "传奇头目"
+    }
+  ],
+  "1_4_2": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "统治者之殿"
+    }
+  ],
+  "1_4_3_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 2,
+      "DisplayName": "入口"
+    }
+  ],
+  "1_4_3_3": [
+    {
+      "Name": "beast",
+      "ExpectedCount": 1,
+      "DisplayName": "兽腹一层"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 2,
+      "DisplayName": "区域传送"
+    },
+    {
+      "Name": "entrancedown",
+      "ExpectedCount": 1,
+      "DisplayName": "挖掘藏身处"
+    }
+  ],
+  "1_4_3_2": [
+    {
+      "Name": "entrancedown",
+      "ExpectedCount": 1,
+      "DisplayName": "水晶矿脉"
+    },
+    {
+      "Name": "entranceback",
+      "ExpectedCount": 1,
+      "DisplayName": "矿坑一层"
+    }
+  ],
+  "1_4_5_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "大竞技场"
+    }
+  ],
+  "1_4_5_2": [
+    {
+      "Name": "entrance1",
+      "ExpectedCount": 1,
+      "DisplayName": "达拉苏之梦"
+    },
+    {
+      "Name": "daressoentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "达拉苏竞技场"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 7,
+      "DisplayName": "门"
+    },
+    {
+      "Name": "trapdoor",
+      "ExpectedCount": 3,
+      "DisplayName": "后门"
+    },
+    {
+      "Name": "doormerveil",
+      "ExpectedCount": 3,
+      "DisplayName": "下一道门"
+    },
+    {
+      "Name": "gladiatortrapdoor",
+      "ExpectedCount": 1,
+      "DisplayName": "角斗士后门"
+    }
+  ],
+  "1_4_4_1": [
+    {
+      "Name": "areatransition",
+      "ExpectedCount": 1,
+      "DisplayName": "卡鲁要塞"
+    }
+  ],
+  "1_4_4_3": [
+    {
+      "Name": "k3",
+      "ExpectedCount": 1,
+      "DisplayName": "卡鲁之梦"
+    },
+    {
+      "Name": "throne",
+      "ExpectedCount": 1,
+      "DisplayName": "卡鲁竞技场"
+    }
+  ],
+  "1_4_6_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 2,
+      "DisplayName": "区域传送"
+    }
+  ],
+  "1_4_6_2": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 2,
+      "DisplayName": "区域传送"
+    },
+    {
+      "Name": "onewaydoor",
+      "ExpectedCount": 1,
+      "DisplayName": "派蒂竞技场"
+    }
+  ],
+  "1_4_6_3": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "兽腹二层"
+    },
+    {
+      "Name": "maligaroarena",
+      "ExpectedCount": 1,
+      "DisplayName": "马雷格罗竞技场"
+    },
+    {
+      "Name": "shavronnearena",
+      "ExpectedCount": 1,
+      "DisplayName": "夏乌拉竞技场"
+    },
+    {
+      "Name": "doedrearena",
+      "ExpectedCount": 1,
+      "DisplayName": "德瑞竞技场"
+    },
+    {
+      "Name": "taster",
+      "ExpectedCount": 1,
+      "DisplayName": "马拉凯竞技场"
+    }
+  ],
+  "1_4_7": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "奴隶监牢"
+    },
+    {
+      "Name": "pinnacle",
+      "ExpectedCount": 1,
+      "DisplayName": "奴隶监牢"
+    }
+  ],
+  "1_5_1": [
+    {
+      "Name": "town",
+      "ExpectedCount": 1,
+      "DisplayName": "监守高塔"
+    }
+  ],
+  "1_5_2": [
+    {
+      "Name": "town",
+      "ExpectedCount": 1,
+      "DisplayName": "监守高塔"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "奥瑞亚/大广场废墟"
+    },
+    {
+      "Name": "ddclosed",
+      "ExpectedCount": 1,
+      "DisplayName": "瘴气仪"
+    }
+  ],
+  "1_5_3b": [
+    {
+      "Name": "04",
+      "ExpectedCount": 1,
+      "DisplayName": "骨库"
+    },
+    {
+      "Name": "corner_to_entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "控制区"
+    },
+    {
+      "Name": "02",
+      "ExpectedCount": 2,
+      "DisplayName": "圣物间/瓦尔侧厅"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "大教堂屋顶"
+    },
+    {
+      "Name": "03",
+      "ExpectedCount": 1,
+      "DisplayName": "圣堂/焦灼法庭"
+    }
+  ],
+  "1_5_4b": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "奥瑞亚/大广场废墟"
+    },
+    {
+      "Name": "innocence_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "无罪之室"
+    }
+  ],
+  "1_5_5": [
+    {
+      "Name": "templar_courts_entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "圣堂/焦灼法庭"
+    },
+    {
+      "Name": "epic_stair",
+      "ExpectedCount": 1,
+      "DisplayName": "高阶圣徒阿瓦留斯竞技场"
+    }
+  ],
+  "1_5_6": [
+    {
+      "Name": "secretpassage",
+      "ExpectedCount": 1,
+      "DisplayName": "任务物品"
+    },
+    {
+      "Name": "transitiondownbroken",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    }
+  ],
+  "1_5_7": [
+    {
+      "Name": "Metadata/Terrain/Theopolis/Reliquary/Feature/Reliquary_Oriath_transition_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    }
+  ],
+  "1_5_8": [
+    {
+      "Name": "arena",
+      "ExpectedCount": 1,
+      "DisplayName": "奇塔弗竞技场"
+    },
+    {
+      "Name": "chitus",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    }
+  ],
+  "2_6_1": [
+    {
+      "Name": "beachtownsouth",
+      "ExpectedCount": 1,
+      "DisplayName": "狮眼守望"
+    },
+    {
+      "Name": "zombiebite",
+      "ExpectedCount": 1,
+      "DisplayName": "头目"
+    }
+  ],
+  "2_6_3": [
+    {
+      "Name": "karui",
+      "ExpectedCount": 1,
+      "DisplayName": "沉寂海崖"
+    },
+    {
+      "Name": "medicineboat",
+      "ExpectedCount": 1,
+      "DisplayName": "裂潮"
+    }
+  ],
+  "2_6_4": [
+    {
+      "Name": "karui_reverse",
+      "ExpectedCount": 1,
+      "DisplayName": "暮光海滩"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "卡鲁堡垒"
+    },
+    {
+      "Name": "watercave",
+      "ExpectedCount": 1,
+      "DisplayName": "征服之眼"
+    }
+  ],
+  "2_6_5": [
+    {
+      "Name": "ridge",
+      "ExpectedCount": 1,
+      "DisplayName": "山脊"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "炙热盐沼"
+    },
+    {
+      "Name": "tokuhama",
+      "ExpectedCount": 1,
+      "DisplayName": "图克哈玛竞技场"
+    }
+  ],
+  "2_6_6": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "卡鲁堡垒"
+    },
+    {
+      "Name": "prisonback",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱下层"
+    }
+  ],
+  "2_6_7_1": [
+    {
+      "Name": "scaffold",
+      "ExpectedCount": 1,
+      "DisplayName": "山脊"
+    },
+    {
+      "Name": "LabyrinthDoor",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "shavronne",
+      "ExpectedCount": 1,
+      "DisplayName": "夏乌拉之塔"
+    }
+  ],
+
+  "2_6_7_2": [
+    {
+      "Name": "shavronne2",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱下层"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 3,
+      "DisplayName": "上行楼梯"
+    },
+    {
+      "Name": "entrancedown",
+      "ExpectedCount": 3,
+      "DisplayName": "下行楼梯"
+    },
+    {
+      "Name": "ladder_up",
+      "ExpectedCount": 1,
+      "DisplayName": "夏乌拉竞技场"
+    },
+    {
+      "Name": "exitdoor",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱大门"
+    }
+  ],
+  "2_6_8": [
+    {
+      "Name": "passageblock",
+      "ExpectedCount": 1,
+      "DisplayName": "西部密林"
+    },
+    {
+      "Name": "transition3",
+      "ExpectedCount": 2,
+      "DisplayName": "饮火者山谷"
+    }
+  ],
+  "2_6_9": [
+    {
+      "Name": "passage",
+      "ExpectedCount": 1,
+      "DisplayName": "监狱大门"
+    },
+    {
+      "Name": "tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "河道"
+    }
+  ],
+  "2_6_10": [
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "湿地"
+    },
+    {
+      "Name": "tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "西部密林"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "南部密林"
+    }
+  ],
+  "2_6_11": [
+    {
+      "Name": "roadend",
+      "ExpectedCount": 1,
+      "DisplayName": "河道"
+    },
+    {
+      "Name": "caveentrance",
+      "ExpectedCount": 2,
+      "DisplayName": "孵化之地"
+    }
+  ],
+  "2_6_12": [
+    {
+      "Name": "foresttowndock",
+      "ExpectedCount": 1,
+      "DisplayName": "河道"
+    },
+    {
+      "Name": "caveentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "愤怒之窟"
+    }
+  ],
+  "2_6_13": [
+    {
+      "Name": "mervexit",
+      "ExpectedCount": 1,
+      "DisplayName": "南部密林"
+    },
+    {
+      "Name": "entrancedownboss",
+      "ExpectedCount": 1,
+      "DisplayName": "通道"
+    },
+    {
+      "Name": "nessa_corner",
+      "ExpectedCount": 1,
+      "DisplayName": "旗帜宝箱"
+    },
+    {
+      "Name": "coral_hideout",
+      "ExpectedCount": 1,
+      "DisplayName": "珊瑚藏身处"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 3,
+      "DisplayName": "区域传送（50%概率）"
+    },
+    {
+      "Name": "edge",
+      "ExpectedCount": 1,
+      "DisplayName": "临近真实区域传送"
+    }
+  ],
+  "2_6_14": [
+    {
+      "Name": "caveentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "愤怒之窟"
+    },
+    {
+      "Name": "payload",
+      "ExpectedCount": 1,
+      "DisplayName": "信标"
+    },
+    {
+      "Name": "weylamwalk",
+      "ExpectedCount": 1,
+      "DisplayName": "维拉姆"
+    }
+  ],
+  "2_6_15": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "海洋王座"
+    }
+  ],
+  "2_7_1": [
+    {
+      "Name": "partial",
+      "ExpectedCount": 1,
+      "DisplayName": "大桥营地"
+    },
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "manorcorner",
+      "ExpectedCount": 1,
+      "DisplayName": "肮脏的保险箱"
+    }
+  ],
+  "2_7_2": [
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿一层"
+    },
+    {
+      "Name": "gatetransitionReverse",
+      "ExpectedCount": 1,
+      "DisplayName": "堕道遗迹"
+    },
+    {
+      "Name": "bridgetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "断桥"
+    }
+  ],
+  "2_7_3": [
+    {
+      "Name": "gatetransition",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "静谧陵墓一层"
+    }
+  ],
+  "2_7_4": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "堕道遗迹"
+    },
+    {
+      "Name": "LabyrinthDoor",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "sarcophigusentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "楼梯"
+    },
+    {
+      "Name": "entrancebook",
+      "ExpectedCount": 1,
+      "DisplayName": "楼梯"
+    }
+  ],
+  "2_7_5_1": [
+    {
+      "Name": "exitdown",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿二层"
+    },
+    {
+      "Name": "outentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "岔路口"
+    },
+    {
+      "Name": "maporrey4",
+      "ExpectedCount": 1,
+      "DisplayName": "地图装置"
+    }
+  ],
+  "2_7_5_2": [
+    {
+      "Name": "exitup",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿一层"
+    },
+    {
+      "Name": "narrow_door",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "maligaro",
+      "ExpectedCount": 1,
+      "DisplayName": "兽穴"
+    },
+    {
+      "Name": "exitdown",
+      "ExpectedCount": 1,
+      "DisplayName": "灾祸藏身处"
+    }
+  ],
+  "2_7_6": [
+    {
+      "Name": "exitup",
+      "ExpectedCount": 1,
+      "DisplayName": "灰原"
+    },
+    {
+      "Name": "down",
+      "ExpectedCount": 1,
+      "DisplayName": "罪孽之殿二层"
+    }
+  ],
+  "2_7_7": [
+    {
+      "Name": "cave",
+      "ExpectedCount": 1,
+      "DisplayName": "兽穴"
+    },
+    {
+      "Name": "banditcamp",
+      "ExpectedCount": 1,
+      "DisplayName": "格鲁斯特竞技场"
+    }
+  ],
+  "2_7_8": [
+    {
+      "Name": "groveentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "惊魂树洞"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "石道"
+    },
+    {
+      "Name": "azmeri_shrine",
+      "ExpectedCount": 1,
+      "DisplayName": "阿兹莫里圣坛"
+    }
+  ],
+  "2_7_9": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "北部密林"
+    },
+    {
+      "Name": "cave",
+      "ExpectedCount": 1,
+      "DisplayName": "绝望之渊"
+    }
+  ],
+  "2_7_10": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "北部密林"
+    },
+    {
+      "Name": "bottom",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔城"
+    }
+  ],
+  "2_7_11": [
+    {
+      "Name": "top",
+      "ExpectedCount": 1,
+      "DisplayName": "石道"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "腐朽神殿一层"
+    }
+  ],
+  "2_7_12_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔城"
+    },
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 2,
+      "DisplayName": "下行楼梯"
+    },
+    {
+      "Name": "stairsup",
+      "ExpectedCount": 1,
+      "DisplayName": "上行楼梯"
+    }
+  ],
+  "2_7_12_2": [
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 2,
+      "DisplayName": "下行楼梯"
+    },
+    {
+      "Name": "stairsup",
+      "ExpectedCount": 3,
+      "DisplayName": "上行楼梯"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 2,
+      "DisplayName": "阿拉卡力竞技场/出口"
+    }
+  ],
+  "2_8_1": [
+    {
+      "Name": "trapdoor",
+      "ExpectedCount": 1,
+      "DisplayName": "楼梯"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "萨恩营地"
+    },
+    {
+      "Name": "transitionwall",
+      "ExpectedCount": 2,
+      "DisplayName": "中间区域"
+    }
+  ],
+  "2_8_2_1": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "萨恩营地"
+    },
+    {
+      "Name": "endexit",
+      "ExpectedCount": 1,
+      "DisplayName": "多里安的污水池"
+    }
+  ],
+  "2_8_2_2": [
+    {
+      "Name": "endexit",
+      "ExpectedCount": 1,
+      "DisplayName": "毒液导管"
+    },
+    {
+      "Name": "sewer",
+      "ExpectedCount": 1,
+      "DisplayName": "松动格栅"
+    },
+    {
+      "Name": "sewerentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "码头"
+    },
+    {
+      "Name": "ladderw",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场"
+    }
+  ],
+  "2_8_8": [
+    {
+      "Name": "opengrate",
+      "ExpectedCount": 1,
+      "DisplayName": "多里安的污水池"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 3,
+      "DisplayName": "复活点/粮仓大门"
+    },
+    {
+      "Name": "A",
+      "ExpectedCount": 1,
+      "DisplayName": "任务物品"
+    }
+  ],
+  "2_8_9": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "码头"
+    },
+    {
+      "Name": "graingate",
+      "ExpectedCount": 1,
+      "DisplayName": "帝王平原"
+    },
+    {
+      "Name": "entranceslums",
+      "ExpectedCount": 1,
+      "DisplayName": "天赋点"
+    },
+    {
+      "Name": "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/slum_sewer_entrance_warehouse.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "隐藏地下通道"
+    }
+  ],
+  "2_8_10": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "粮仓大门"
+    },
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿一层"
+    }
+  ],
+  "2_8_12_1": [
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 2,
+      "DisplayName": "出口"
+    },
+    {
+      "Name": "forcedblank",
+      "ExpectedCount": 1,
+      "DisplayName": "压力板"
+    },
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿二层"
+    }
+  ],
+  "2_8_12_2": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿一层"
+    },
+    {
+      "Name": "queenchair",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀竞技场"
+    }
+  ],
+  "2_8_11": [
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀神殿一层"
+    },
+    {
+      "Name": "battlefront_harbor",
+      "ExpectedCount": 1,
+      "DisplayName": "港口大桥"
+    },
+    {
+      "Name": "hidden_tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "隐藏地下通道"
+    }
+  ],
+  "2_8_13": [
+    {
+      "Name": "battlefront_harbor",
+      "ExpectedCount": 1,
+      "DisplayName": "日耀广场"
+    },
+    {
+      "Name": "arena_false",
+      "ExpectedCount": 1,
+      "DisplayName": "天空祭坛"
+    },
+    {
+      "Name": "SPECIAL",
+      "ExpectedCount": 1,
+      "DisplayName": "月影广场"
+    }
+  ],
+  "2_8_6": [
+    {
+      "Name": "bath_house",
+      "ExpectedCount": 1,
+      "DisplayName": "浴场"
+    },
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "月影神殿一层"
+    },
+    {
+      "Name": "broken",
+      "ExpectedCount": 1,
+      "DisplayName": "港口大桥"
+    }
+  ],
+  "2_8_5": [
+    {
+      "Name": "entry",
+      "ExpectedCount": 5,
+      "DisplayName": "出口/藏身处"
+    },
+    {
+      "Name": "rosette3_waypoint",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "lava",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    },
+    {
+      "Name": "hidden_tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "隐藏地下通道"
+    }
+  ],
+  "2_8_3": [
+    {
+      "Name": "aresenal",
+      "ExpectedCount": 1,
+      "DisplayName": "浴场"
+    },
+    {
+      "Name": "Metadata/Terrain/RuinedCity/LargeWall/battlefield_arch_v01_03.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "ladder",
+      "ExpectedCount": 1,
+      "DisplayName": "毒液导管"
+    }
+  ],
+  "2_8_4": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 3,
+      "DisplayName": "出口/竞技场"
+    }
+  ],
+  "2_8_7_1_": [
+    {
+      "Name": "templeentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "月影广场"
+    },
+    {
+      "Name": "Metadata/Terrain/Temple/Stairs/templeclean_stairs_convex_v01_01.tdt",
+      "ExpectedCount": 1,
+      "DisplayName": "压力板"
+    },
+    {
+      "Name": "stairsdown",
+      "ExpectedCount": 1,
+      "DisplayName": "月影神殿二层"
+    }
+  ],
+  "2_8_7_2": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "月影神殿一层"
+    },
+    {
+      "Name": "roundtopcenter",
+      "ExpectedCount": 1,
+      "DisplayName": "月影竞技场"
+    }
+  ],
+  "2_8_14": [
+    {
+      "Name": "sewerentrance",
+      "ExpectedCount": 1,
+      "DisplayName": "粮仓大门"
+    },
+    {
+      "Name": "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_end_tunnel_v01_03.tdt",
+      "ExpectedCount": 2,
+      "DisplayName": "日耀广场/浴场"
+    }
+  ],
+  "2_9_1": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "townconnection",
+      "ExpectedCount": 1,
+      "DisplayName": "统治者之殿"
+    }
+  ],
+  "2_9_2": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "统治者之殿"
+    },
+    {
+      "Name": "topwinch",
+      "ExpectedCount": 1,
+      "DisplayName": "补给官"
+    },
+    {
+      "Name": "winch",
+      "ExpectedCount": 2,
+      "DisplayName": "补给官"
+    }
+  ],
+  "2_9_3": [
+    {
+      "Name": "elevator",
+      "ExpectedCount": 1,
+      "DisplayName": "下行楼梯"
+    },
+    {
+      "Name": "foothills",
+      "ExpectedCount": 1,
+      "DisplayName": "山麓营地"
+    },
+    {
+      "Name": "wagons_reverse",
+      "ExpectedCount": 1,
+      "DisplayName": "绿洲"
+    }
+  ],
+  "2_9_4": [
+    {
+      "Name": "impassable",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔多之漠"
+    },
+    {
+      "Name": "rockwalltransition",
+      "ExpectedCount": 2,
+      "DisplayName": "沙坑"
+    }
+  ],
+  "2_9_5": [
+    {
+      "Name": "lake",
+      "ExpectedCount": 1,
+      "DisplayName": "沸腾湖"
+    },
+    {
+      "Name": "desert",
+      "ExpectedCount": 1,
+      "DisplayName": "瓦尔多之漠"
+    },
+    {
+      "Name": "tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "隧道"
+    }
+  ],
+  "2_9_6": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "山麓营地"
+    },
+    {
+      "Name": "statueground",
+      "ExpectedCount": 1,
+      "DisplayName": "石化蜥蜴"
+    }
+  ],
+  "2_9_7": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "山麓营地"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "采石场"
+    },
+    {
+      "Name": "doorframe",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼"
+    }
+  ],
+  "2_9_8": [
+    {
+      "Name": "slums_transition",
+      "ExpectedCount": 2,
+      "DisplayName": "风之圣坛"
+    },
+    {
+      "Name": "warehouse_rails",
+      "ExpectedCount": 1,
+      "DisplayName": "精炼厂"
+    },
+    {
+      "Name": "tunnels",
+      "ExpectedCount": 1,
+      "DisplayName": "隧道"
+    },
+    {
+      "Name": "beast_membrane",
+      "ExpectedCount": 1,
+      "DisplayName": "兽腹"
+    }
+  ],
+  "2_9_9": [
+    {
+      "Name": "entry_main",
+      "ExpectedCount": 1,
+      "DisplayName": "采石场"
+    },
+    {
+      "Name": "hidden_tunnel",
+      "ExpectedCount": 1,
+      "DisplayName": "精炼厂隧道"
+    },
+    {
+      "Name": "boss_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "阿杜斯将军竞技场"
+    }
+  ],
+  "2_9_10_1": [
+    {
+      "Name": "quarry",
+      "ExpectedCount": 1,
+      "DisplayName": "采石场"
+    },
+    {
+      "Name": "rottingcore",
+      "ExpectedCount": 1,
+      "DisplayName": "腐化核心"
+    }
+  ],
+  "2_9_10_2": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "兽腹"
+    },
+    {
+      "Name": "doordown",
+      "ExpectedCount": 1,
+      "DisplayName": "黑暗核心"
+    },
+    {
+      "Name": "shavronnearena",
+      "ExpectedCount": 1,
+      "DisplayName": "夏乌拉竞技场"
+    },
+    {
+      "Name": "doedrearena",
+      "ExpectedCount": 1,
+      "DisplayName": "多里安竞技场"
+    },
+    {
+      "Name": "maligaroarena",
+      "ExpectedCount": 1,
+      "DisplayName": "马雷格萝竞技场"
+    }
+  ],
+  "2_10_1": [
+    {
+      "Name": "sindock",
+      "ExpectedCount": 1,
+      "DisplayName": "奥瑞亚码头"
+    },
+    {
+      "Name": "arena",
+      "ExpectedCount": 1,
+      "DisplayName": "大教堂尖顶"
+    },
+    {
+      "Name": "chitus",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    }
+  ],
+  "2_10_2": [
+    {
+      "Name": "04",
+      "ExpectedCount": 1,
+      "DisplayName": "骨灰堂"
+    },
+    {
+      "Name": "slaveden",
+      "ExpectedCount": 1,
+      "DisplayName": "控制区"
+    },
+    {
+      "Name": "03",
+      "ExpectedCount": 1,
+      "DisplayName": "焦灼庭院"
+    },
+    {
+      "Name": "02",
+      "ExpectedCount": 2,
+      "DisplayName": "圣物间/瓦尔侧厅"
+    },
+    {
+      "Name": "height2",
+      "ExpectedCount": 1,
+      "DisplayName": "大教堂屋顶"
+    }
+  ],
+  "2_10_9": [
+    {
+      "Name": "abyss_transition",
+      "ExpectedCount": 2,
+      "DisplayName": "大广场废墟/藏身处"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "骨灰堂"
+    },
+    {
+      "Name": "firepit",
+      "ExpectedCount": 1,
+      "DisplayName": "升华试炼/任务物品"
+    }
+  ],
+  "2_10_4": [
+    {
+      "Name": "templar_courts_entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "焦灼庭院"
+    },
+    {
+      "Name": "epic_stair",
+      "ExpectedCount": 1,
+      "DisplayName": "阿瓦留斯竞技场"
+    }
+  ],
+  "2_10_3": [
+    {
+      "Name": "innocence_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "亵渎之间"
+    },
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    }
+  ],
+  "2_10_7": [
+    {
+      "Name": "exit",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 2,
+      "DisplayName": "维伦塔竞技场"
+    }
+  ],
+  "2_10_5": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "饲槽"
+    },
+    {
+      "Name": "reverse_feedingtrough",
+      "ExpectedCount": 1,
+      "DisplayName": "大广场废墟"
+    }
+  ],
+  "2_10_6": [
+    {
+      "Name": "transition",
+      "ExpectedCount": 1,
+      "DisplayName": "运河"
+    },
+    {
+      "Name": "SPECIAL",
+      "ExpectedCount": 1,
+      "DisplayName": "奇塔弗竞技场"
+    }
+  ],
+  "1_1_1": [
+    {
+      "Name": "beachtownsouth",
+      "ExpectedCount": 1,
+      "DisplayName": "城镇"
+    }
+  ],
+  "1_1_4_0": [
+    {
+      "Name": "forcedblank",
+      "ExpectedCount": 1,
+      "DisplayName": "传奇头目"
+    }
+  ],
+  "1_5_3": [
+    {
+      "Name": "slaveden",
+      "ExpectedCount": 1,
+      "DisplayName": "奴隶坑"
+    },
+    {
+      "Name": "03",
+      "ExpectedCount": 1,
+      "DisplayName": "圣堂骑士庭院入口"
+    }
+  ],
+  "1_5_4": [
+    {
+      "Name": "entrance",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "innocence_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "纯净圣殿"
+    }
+  ],
+  "*_Labyrinth_*": [
+    {
+      "Name": "entry",
+      "ExpectedCount": 3,
+      "DisplayName": "出口"
+    },
+    {
+      "Name": "airlock_exit",
+      "ExpectedCount": 1,
+      "DisplayName": "返回"
+    },
+    {
+      "Name": "exitup",
+      "ExpectedCount": 3,
+      "DisplayName": "出口"
+    },
+    {
+      "Name": "exit",
+      "ExpectedCount": 3,
+      "DisplayName": "出口"
+    },
+    {
+      "Name": "entranceup",
+      "ExpectedCount": 3,
+      "DisplayName": "出口"
+    },
+    {
+      "Name": "slide",
+      "ExpectedCount": 1,
+      "DisplayName": "秘密门"
+    },
+    {
+      "Name": "hidden",
+      "ExpectedCount": 1,
+      "DisplayName": "秘密门"
+    }
+  ],
+  "Sanctum*": [
+    {
+      "Name": "airlock_transition",
+      "ExpectedCount": 10,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "square_transition",
+      "ExpectedCount": 10,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "areatransition",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "transition_down",
+      "ExpectedCount": 2,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "exitdown",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "entrance_upper",
+      "ExpectedCount": 2,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "abyss_transition",
+      "ExpectedCount": 1,
+      "DisplayName": "传送点"
+    },
+    {
+      "Name": "transition",
+      "ExpectedCount": 3,
+      "DisplayName": "传送点"
+    }
+  ],
+  "*Heist*": [
+    {
+      "Name": "Metadata/MiscellaneousObjects/Heist/CurioDisplayRoomMarker",
+      "ExpectedCount": 1,
+      "DisplayName": "劫夺目标",
+      "TargetType": "Entity"
+    },
+    {
+      "Name": "Metadata/MiscellaneousObjects/AreaTransition",
+      "ExpectedCount": 10,
+      "DisplayName": "逃生路线",
+      "TargetType": "Entity"
+    }
+  ]
+}

@@ -1632,6 +1632,12 @@
         "class": ""
     },
     {
+        "label": "Ape Talisman",
+        "value": "Ape_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Apep's Rage",
         "value": "Apeps_Rage",
         "desc": "Unique",
@@ -1690,12 +1696,6 @@
         "value": "Apocalypse",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "Apocalypse Harness",
-        "value": "Apocalypse_Harness",
-        "desc": "",
-        "class": ""
     },
     {
         "label": "Apothecary's Gloves",
@@ -1900,12 +1900,6 @@
         "value": "Arcanist_Brand",
         "desc": "Skill Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Arcanist Brand Support",
-        "value": "Arcanist_Brand",
-        "desc": "",
-        "class": ""
     },
     {
         "label": "Arcanist Gloves",
@@ -2583,6 +2577,12 @@
         "label": "Atlas Upgrade Items",
         "value": "Atlas_Upgrade_Items",
         "desc": "Item Classes",
+        "class": ""
+    },
+    {
+        "label": "Atlas anomaly",
+        "value": "Atlas_anomaly",
+        "desc": "Wiki",
         "class": ""
     },
     {
@@ -3334,6 +3334,12 @@
         "value": "Baleful_Augmentation",
         "desc": "Timeless Jewel",
         "class": ""
+    },
+    {
+        "label": "Baleful Dominion",
+        "value": "Baleful_Dominion",
+        "desc": "Unique",
+        "class": "UniqueItem"
     },
     {
         "label": "Ball Lightning",
@@ -4146,6 +4152,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Black Widow Talisman",
+        "value": "Black_Widow_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Black Zenith",
         "value": "Black_Zenith",
         "desc": "Unique",
@@ -4845,6 +4857,12 @@
         "label": "Blood Stance and Sand Stance",
         "value": "Blood_Stance_and_Sand_Stance",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Blood Viper Talisman",
+        "value": "Blood_Viper_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -5790,6 +5808,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Broken Mirror of Kalandra",
+        "value": "Broken_Mirror_of_Kalandra",
+        "desc": "Stackable Currency",
+        "class": "item_currency"
+    },
+    {
         "label": "Broken Promises",
         "value": "Broken_Promises",
         "desc": "Divination Cards",
@@ -6453,6 +6477,12 @@
         "label": "Carnal Sceptre",
         "value": "Carnal_Sceptre",
         "desc": "Sceptres",
+        "class": ""
+    },
+    {
+        "label": "Carrion Queen Talisman",
+        "value": "Carrion_Queen_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -7248,6 +7278,12 @@
         "class": ""
     },
     {
+        "label": "Chieftain Talisman",
+        "value": "Chieftain_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Chill",
         "value": "Chill",
         "desc": "Wiki",
@@ -7269,6 +7305,12 @@
         "label": "Chilling Presence",
         "value": "Chilling_Presence",
         "desc": "Cluster Jewel",
+        "class": ""
+    },
+    {
+        "label": "Chimeral Talisman",
+        "value": "Chimeral_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -7708,6 +7750,12 @@
         "value": "Cobra_Lash",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Cobra Talisman",
+        "value": "Cobra_Talisman",
+        "desc": "Amulets",
+        "class": ""
     },
     {
         "label": "Coffer Relic",
@@ -8577,6 +8625,18 @@
         "label": "Coral Amulet",
         "value": "Coral_Amulet",
         "desc": "Amulets",
+        "class": ""
+    },
+    {
+        "label": "Coral Forest Chart",
+        "value": "Coral_Forest_Chart",
+        "desc": "Chart",
+        "class": ""
+    },
+    {
+        "label": "Coral Reef Chart",
+        "value": "Coral_Reef_Chart",
+        "desc": "Chart",
         "class": ""
     },
     {
@@ -10860,6 +10920,12 @@
         "class": ""
     },
     {
+        "label": "Destructive Aspiration",
+        "value": "Destructive_Aspiration",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "Destructive Link",
         "value": "Destructive_Link",
         "desc": "Skill Gems",
@@ -10978,6 +11044,12 @@
         "value": "Devour_Support",
         "desc": "Support Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Devourer Talisman",
+        "value": "Devourer_Talisman",
+        "desc": "Amulets",
+        "class": ""
     },
     {
         "label": "Devouring Fragment",
@@ -11794,6 +11866,12 @@
         "value": "Dread_Banner",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Dread Captain's Cutlass",
+        "value": "Dread_Captains_Cutlass",
+        "desc": "Unique",
+        "class": "UniqueItem"
     },
     {
         "label": "Dread March",
@@ -13152,6 +13230,30 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Enshrouded Body Armour",
+        "value": "Enshrouded_Body_Armour",
+        "desc": "Enshrouded Items",
+        "class": ""
+    },
+    {
+        "label": "Enshrouded Boots",
+        "value": "Enshrouded_Boots",
+        "desc": "Enshrouded Items",
+        "class": ""
+    },
+    {
+        "label": "Enshrouded Gloves",
+        "value": "Enshrouded_Gloves",
+        "desc": "Enshrouded Items",
+        "class": ""
+    },
+    {
+        "label": "Enshrouded Helmet",
+        "value": "Enshrouded_Helmet",
+        "desc": "Enshrouded Items",
+        "class": ""
+    },
+    {
         "label": "Enshrouded Item",
         "value": "Enshrouded_Item",
         "desc": "Keywords",
@@ -13161,6 +13263,12 @@
         "label": "Enshrouded Items",
         "value": "Enshrouded_Items",
         "desc": "Item Classes",
+        "class": ""
+    },
+    {
+        "label": "Enshrouded Shield",
+        "value": "Enshrouded_Shield",
+        "desc": "Enshrouded Items",
         "class": ""
     },
     {
@@ -14172,6 +14280,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Extinguishing Grasp",
+        "value": "Extinguishing_Grasp",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "Extra Content",
         "value": "Extra_Content",
         "desc": "Wiki",
@@ -14469,6 +14583,12 @@
         "label": "Farric Lure",
         "value": "Farric_Lure",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Farric Talisman",
+        "value": "Farric_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -14780,6 +14900,12 @@
     {
         "label": "Festering Resentment",
         "value": "Festering_Resentment",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
+        "label": "Festering Vengeance",
+        "value": "Festering_Vengeance",
         "desc": "Unique",
         "class": "UniqueItem"
     },
@@ -15132,6 +15258,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Flame Hellion Talisman",
+        "value": "Flame_Hellion_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Flame Link",
         "value": "Flame_Link",
         "desc": "Skill Gems",
@@ -15388,12 +15520,6 @@
         "value": "Fleshcrafter",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Fleshrend",
-        "value": "Pact_of_Ghorr",
-        "desc": "",
-        "class": ""
     },
     {
         "label": "Fleshrend, Grand Inquisitor",
@@ -16278,6 +16404,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Frost Hellion Talisman",
+        "value": "Frost_Hellion_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Frost Shield",
         "value": "Frost_Shield",
         "desc": "Skill Gems",
@@ -16644,6 +16776,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Gargantuan Talisman",
+        "value": "Gargantuan_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Garukhan's Flight",
         "value": "Garukhans_Flight",
         "desc": "Unique",
@@ -16794,12 +16932,6 @@
         "class": "gemitem"
     },
     {
-        "label": "General's Cry Support",
-        "value": "Generals_Cry",
-        "desc": "",
-        "class": ""
-    },
-    {
         "label": "General's Helmet",
         "value": "Generals_Helmet",
         "desc": "Helmets",
@@ -16881,6 +17013,12 @@
         "label": "Ghost Reaver",
         "value": "Ghost_Reaver",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Ghostflame Blade",
+        "value": "Ghostflame_Blade",
+        "desc": "One Hand Swords",
         "class": ""
     },
     {
@@ -17358,6 +17496,12 @@
         "class": ""
     },
     {
+        "label": "Goatman Talisman",
+        "value": "Goatman_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Goblinedge",
         "value": "Goblinedge",
         "desc": "Unique",
@@ -17601,6 +17745,12 @@
         "label": "Goliath Greaves",
         "value": "Goliath_Greaves",
         "desc": "Boots",
+        "class": ""
+    },
+    {
+        "label": "Goliath Talisman",
+        "value": "Goliath_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -17913,6 +18063,12 @@
         "label": "Great Maw",
         "value": "Great_Maw",
         "desc": "Monster",
+        "class": ""
+    },
+    {
+        "label": "Great Maw Talisman",
+        "value": "Great_Maw_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -18936,12 +19092,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Heaven's Scourge",
-        "value": "Pact_of_Lycia",
-        "desc": "",
-        "class": ""
-    },
-    {
         "label": "Heavy Arrow Quiver",
         "value": "Heavy_Arrow_Quiver",
         "desc": "Quivers",
@@ -19828,6 +19978,12 @@
         "value": "Hyaons_Fury",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "Hybrid Arachnid Talisman",
+        "value": "Hybrid_Arachnid_Talisman",
+        "desc": "Amulets",
+        "class": ""
     },
     {
         "label": "Hybrid Flasks",
@@ -22188,12 +22344,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Kinetic Anomaly",
-        "value": "Kinetic_Rain",
-        "desc": "",
-        "class": ""
-    },
-    {
         "label": "Kinetic Blast",
         "value": "Kinetic_Blast",
         "desc": "Skill Gems",
@@ -22216,12 +22366,6 @@
         "value": "Kinetic_Bolt_of_Fragmentation",
         "desc": "Skill Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Kinetic Flux",
-        "value": "Kinetic_Instability_Support",
-        "desc": "",
-        "class": ""
     },
     {
         "label": "Kinetic Fusillade",
@@ -23838,6 +23982,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Lynx Talisman",
+        "value": "Lynx_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Lysah's Respite",
         "value": "Lysahs_Respite",
         "desc": "Divination Cards",
@@ -23949,6 +24099,12 @@
         "label": "Magistrate Crown",
         "value": "Magistrate_Crown",
         "desc": "Helmets",
+        "class": ""
+    },
+    {
+        "label": "Magma Hound Talisman",
+        "value": "Magma_Hound_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -24471,12 +24627,6 @@
         "label": "Marchak, The Betrayer",
         "value": "Marchak%2C_The_Betrayer",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Marine Quest",
-        "value": "Marine_Quest",
-        "desc": "",
         "class": ""
     },
     {
@@ -25160,7 +25310,7 @@
     {
         "label": "Mercenary Warrant",
         "value": "Mercenary_Warrant",
-        "desc": "",
+        "desc": "Map Fragments",
         "class": ""
     },
     {
@@ -25533,6 +25683,12 @@
         "label": "Mirage of Bones",
         "value": "Mirage_of_Bones",
         "desc": "Monster",
+        "class": ""
+    },
+    {
+        "label": "Miraged Incubator",
+        "value": "Miraged_Incubator",
+        "desc": "Incubators",
         "class": ""
     },
     {
@@ -28003,7 +28159,7 @@
     },
     {
         "label": "Path of Exile: Curse of the Allflame",
-        "value": "Curse_of_the_Allflame_league",
+        "value": "Allflame_league",
         "desc": "Wiki",
         "class": ""
     },
@@ -28113,6 +28269,18 @@
         "label": "Peak Vigour",
         "value": "Peak_Vigour",
         "desc": "Cluster Jewel",
+        "class": ""
+    },
+    {
+        "label": "Pearl of Tsoatha",
+        "value": "Pearl_of_Tsoatha",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
+        "label": "Pearlescent Amulet",
+        "value": "Pearlescent_Amulet",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -28782,6 +28950,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Pitbull Talisman",
+        "value": "Pitbull_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Pitch Darkness",
         "value": "Pitch_Darkness",
         "desc": "Wiki",
@@ -28821,6 +28995,12 @@
         "label": "Plaguebringer",
         "value": "Plaguebringer",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Plagued Arachnid Talisman",
+        "value": "Plagued_Arachnid_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -30822,6 +31002,12 @@
         "class": ""
     },
     {
+        "label": "Reclaimed Malevolence",
+        "value": "Reclaimed_Malevolence",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "Reconstructed Essence",
         "value": "Reconstructed_Essence",
         "desc": "Timeless Jewel",
@@ -31878,6 +32064,12 @@
         "class": ""
     },
     {
+        "label": "Retch Talisman",
+        "value": "Retch_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Retribution",
         "value": "Retribution",
         "desc": "Passive",
@@ -31971,6 +32163,18 @@
         "label": "Rewritten Synthete",
         "value": "Rewritten_Synthete",
         "desc": "Monster",
+        "class": ""
+    },
+    {
+        "label": "Rhex Talisman",
+        "value": "Rhex_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
+        "label": "Rhoa Talisman",
+        "value": "Rhoa_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -32448,6 +32652,12 @@
         "class": "item_currency"
     },
     {
+        "label": "Rotmother's Mutiny",
+        "value": "Rotmothers_Mutiny",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "Rotted Round Shield",
         "value": "Rotted_Round_Shield",
         "desc": "Shields",
@@ -32577,18 +32787,6 @@
         "label": "Run Through",
         "value": "Run_Through",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Rune Blast",
-        "value": "Stormbind",
-        "desc": "",
-        "class": ""
-    },
-    {
-        "label": "Rune Blast of Teleportation",
-        "value": "Stormbind_of_Teleportation",
-        "desc": "",
         "class": ""
     },
     {
@@ -33114,6 +33312,12 @@
         "class": ""
     },
     {
+        "label": "Sacred Incubator",
+        "value": "Sacred_Incubator",
+        "desc": "Incubators",
+        "class": ""
+    },
+    {
         "label": "Sacred Lands",
         "value": "Sacred_Lands",
         "desc": "Passive",
@@ -33480,6 +33684,12 @@
         "class": ""
     },
     {
+        "label": "Sand Spitter Talisman",
+        "value": "Sand_Spitter_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Sand of Eternity",
         "value": "Sand_of_Eternity",
         "desc": "Wiki",
@@ -33490,6 +33700,12 @@
         "value": "Sandstorm_Visage",
         "desc": "Unique",
         "class": "UniqueItem"
+    },
+    {
+        "label": "Sandy Seabed Chart",
+        "value": "Sandy_Seabed_Chart",
+        "desc": "Chart",
+        "class": ""
     },
     {
         "label": "Sanguimancer",
@@ -33639,6 +33855,12 @@
         "label": "Satin Slippers",
         "value": "Satin_Slippers",
         "desc": "Boots",
+        "class": ""
+    },
+    {
+        "label": "Savage Crab Talisman",
+        "value": "Savage_Crab_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -33900,6 +34122,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Scorpion Talisman",
+        "value": "Scorpion_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Scorpion's Call",
         "value": "Scorpions_Call",
         "desc": "Unique",
@@ -33927,6 +34155,12 @@
         "label": "Scouting Report",
         "value": "Scouting_Report",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Scrabbler Talisman",
+        "value": "Scrabbler_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -34088,6 +34322,12 @@
     {
         "label": "Scroll of Wisdom",
         "value": "Scroll_of_Wisdom",
+        "desc": "Stackable Currency",
+        "class": "item_currency"
+    },
+    {
+        "label": "Scrying Orb",
+        "value": "Scrying_Orb",
         "desc": "Stackable Currency",
         "class": "item_currency"
     },
@@ -34894,6 +35134,12 @@
         "value": "Shield_Charge",
         "desc": "Skill Gems",
         "class": "gemitem"
+    },
+    {
+        "label": "Shield Crab Talisman",
+        "value": "Shield_Crab_Talisman",
+        "desc": "Amulets",
+        "class": ""
     },
     {
         "label": "Shield Crush",
@@ -36516,6 +36762,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Spider Crab Talisman",
+        "value": "Spider_Crab_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Spider Matriarch",
         "value": "Spider_Matriarch",
         "desc": "Corpses",
@@ -36856,6 +37108,12 @@
         "value": "Squandered_Prosperity",
         "desc": "Divination Cards",
         "class": "divination"
+    },
+    {
+        "label": "Squid Talisman",
+        "value": "Squid_Talisman",
+        "desc": "Amulets",
+        "class": ""
     },
     {
         "label": "Squirming Terror",
@@ -38799,6 +39057,12 @@
         "label": "Taunt",
         "value": "Taunt",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Taurus Talisman",
+        "value": "Taurus_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -42186,6 +42450,12 @@
         "class": "divination"
     },
     {
+        "label": "The Unblinking Eye",
+        "value": "The_Unblinking_Eye",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "The Unbreakable",
         "value": "The_Unbreakable",
         "desc": "Monster",
@@ -42388,6 +42658,12 @@
         "value": "The_Wedding_Gift",
         "desc": "Divination Cards",
         "class": "divination"
+    },
+    {
+        "label": "The Wellhook",
+        "value": "The_Wellhook",
+        "desc": "Unique",
+        "class": "UniqueItem"
     },
     {
         "label": "The Whispering Ice",
@@ -42867,6 +43143,12 @@
         "label": "Tiger Sword",
         "value": "Tiger_Sword",
         "desc": "Two Hand Swords",
+        "class": ""
+    },
+    {
+        "label": "Tiger Talisman",
+        "value": "Tiger_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -44262,12 +44544,6 @@
         "class": ""
     },
     {
-        "label": "Underwater Journey",
-        "value": "Underwater_Journey",
-        "desc": "",
-        "class": ""
-    },
-    {
         "label": "Underwater Undertaking",
         "value": "Underwater_Undertaking",
         "desc": "Achievements",
@@ -44344,6 +44620,12 @@
         "value": "Unhallowed_Rite",
         "desc": "Passive",
         "class": ""
+    },
+    {
+        "label": "Unholy Accomplice",
+        "value": "Unholy_Accomplice",
+        "desc": "Unique",
+        "class": "UniqueItem"
     },
     {
         "label": "Unholy Authority",
@@ -44637,6 +44919,12 @@
         "label": "Urn of the Original Ashes",
         "value": "Urn_of_the_Original_Ashes",
         "desc": "Heist Targets",
+        "class": ""
+    },
+    {
+        "label": "Ursa Talisman",
+        "value": "Ursa_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -46566,6 +46854,12 @@
         "class": "gemitem"
     },
     {
+        "label": "Vulture Talisman",
+        "value": "Vulture_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "WIP Support",
         "value": "WIP_Support",
         "desc": "Support Gems",
@@ -46980,6 +47274,12 @@
         "class": ""
     },
     {
+        "label": "Watcher Talisman",
+        "value": "Watcher_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Watcher's Eye",
         "value": "Watchers_Eye",
         "desc": "Unique",
@@ -47014,6 +47314,12 @@
         "value": "Waxed_Garb",
         "desc": "Body Armours",
         "class": ""
+    },
+    {
+        "label": "Waxen Soul",
+        "value": "Waxen_Soul",
+        "desc": "Unique",
+        "class": "UniqueItem"
     },
     {
         "label": "Way of the Poacher",
@@ -47862,6 +48168,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Wolf Alpha Talisman",
+        "value": "Wolf_Alpha_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Wolf Pelt",
         "value": "Wolf_Pelt",
         "desc": "Helmets",
@@ -48278,6 +48590,12 @@
     {
         "label": "Zahndethus' Cassock",
         "value": "Zahndethus_Cassock",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
+        "label": "Zana's Ingenuity",
+        "value": "Zanas_Ingenuity",
         "desc": "Unique",
         "class": "UniqueItem"
     },

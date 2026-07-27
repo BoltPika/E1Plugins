@@ -1,0 +1,253 @@
+{
+  "core": {
+    "items": [
+      {
+        "id": "chaos",
+        "name": "Chaos Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjF9XQ/46a2347805/CurrencyRerollRare.png",
+        "category": "Currency",
+        "detailsId": "chaos-orb"
+      },
+      {
+        "id": "divine",
+        "name": "Divine Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MX1d/ec48896769/CurrencyModValues.png",
+        "category": "Currency",
+        "detailsId": "divine-orb"
+      }
+    ],
+    "rates": {
+      "exalted": null,
+      "chaos": null,
+      "divine": 0.009243
+    },
+    "primary": "chaos",
+    "secondary": "divine"
+  },
+  "lines": [
+    {
+      "id": "potent-chaotic-resonator",
+      "primaryValue": 0.1371,
+      "volumePrimaryValue": 110.8,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 7.29,
+      "sparkline": {
+        "totalChange": -66.15,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          -57.88,
+          -66.15
+        ]
+      }
+    },
+    {
+      "id": "powerful-chaotic-resonator",
+      "primaryValue": 0.3903,
+      "volumePrimaryValue": 337.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 2.56,
+      "sparkline": {
+        "totalChange": -5.7,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          -21.34,
+          -5.7
+        ]
+      }
+    },
+    {
+      "id": "prime-chaotic-resonator",
+      "primaryValue": 57.31,
+      "volumePrimaryValue": 10019.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.01745,
+      "sparkline": {
+        "totalChange": 178.9,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          66.04,
+          178.9
+        ]
+      }
+    },
+    {
+      "id": "primitive-chaotic-resonator",
+      "primaryValue": 0.6404,
+      "volumePrimaryValue": 5651.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 1.56,
+      "sparkline": {
+        "totalChange": -11.18,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          -37.6,
+          -11.18
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "potent-chaotic-resonator",
+      "name": "Potent Chaotic Resonator",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngxQSIsInNjYWxlIjoxfV0/bee1bcfe36/Reroll2x1A.png",
+      "category": "Delve",
+      "detailsId": "potent-chaotic-resonator"
+    },
+    {
+      "id": "powerful-chaotic-resonator",
+      "name": "Powerful Chaotic Resonator",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQSIsInNjYWxlIjoxfV0/80b90b6b94/Reroll2x2A.png",
+      "category": "Delve",
+      "detailsId": "powerful-chaotic-resonator"
+    },
+    {
+      "id": "prime-chaotic-resonator",
+      "name": "Prime Chaotic Resonator",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQyIsInNjYWxlIjoxfV0/c624d45072/Reroll2x2C.png",
+      "category": "Delve",
+      "detailsId": "prime-chaotic-resonator"
+    },
+    {
+      "id": "primitive-chaotic-resonator",
+      "name": "Primitive Chaotic Resonator",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMXgxQSIsInNjYWxlIjoxfV0/9c7dcd6158/Reroll1x1A.png",
+      "category": "Delve",
+      "detailsId": "primitive-chaotic-resonator"
+    }
+  ],
+  "LinesByName": {
+    "Potent Chaotic Resonator": {
+      "Item1": {
+        "id": "potent-chaotic-resonator",
+        "primaryValue": 0.1371,
+        "volumePrimaryValue": 110.8,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 7.29,
+        "sparkline": {
+          "totalChange": -66.15,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            -57.88,
+            -66.15
+          ]
+        }
+      },
+      "Item2": {
+        "id": "potent-chaotic-resonator",
+        "name": "Potent Chaotic Resonator",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngxQSIsInNjYWxlIjoxfV0/bee1bcfe36/Reroll2x1A.png",
+        "category": "Delve",
+        "detailsId": "potent-chaotic-resonator"
+      },
+      "Item3": 0.1371
+    },
+    "Powerful Chaotic Resonator": {
+      "Item1": {
+        "id": "powerful-chaotic-resonator",
+        "primaryValue": 0.3903,
+        "volumePrimaryValue": 337.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 2.56,
+        "sparkline": {
+          "totalChange": -5.7,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            -21.34,
+            -5.7
+          ]
+        }
+      },
+      "Item2": {
+        "id": "powerful-chaotic-resonator",
+        "name": "Powerful Chaotic Resonator",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQSIsInNjYWxlIjoxfV0/80b90b6b94/Reroll2x2A.png",
+        "category": "Delve",
+        "detailsId": "powerful-chaotic-resonator"
+      },
+      "Item3": 0.3903
+    },
+    "Prime Chaotic Resonator": {
+      "Item1": {
+        "id": "prime-chaotic-resonator",
+        "primaryValue": 57.31,
+        "volumePrimaryValue": 10019.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.01745,
+        "sparkline": {
+          "totalChange": 178.9,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            66.04,
+            178.9
+          ]
+        }
+      },
+      "Item2": {
+        "id": "prime-chaotic-resonator",
+        "name": "Prime Chaotic Resonator",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQyIsInNjYWxlIjoxfV0/c624d45072/Reroll2x2C.png",
+        "category": "Delve",
+        "detailsId": "prime-chaotic-resonator"
+      },
+      "Item3": 57.31
+    },
+    "Primitive Chaotic Resonator": {
+      "Item1": {
+        "id": "primitive-chaotic-resonator",
+        "primaryValue": 0.6404,
+        "volumePrimaryValue": 5651.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 1.56,
+        "sparkline": {
+          "totalChange": -11.18,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            -37.6,
+            -11.18
+          ]
+        }
+      },
+      "Item2": {
+        "id": "primitive-chaotic-resonator",
+        "name": "Primitive Chaotic Resonator",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMXgxQSIsInNjYWxlIjoxfV0/9c7dcd6158/Reroll1x1A.png",
+        "category": "Delve",
+        "detailsId": "primitive-chaotic-resonator"
+      },
+      "Item3": 0.6404
+    }
+  }
+}

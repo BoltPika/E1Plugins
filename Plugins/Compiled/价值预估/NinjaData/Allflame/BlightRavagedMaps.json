@@ -1,0 +1,30 @@
+{
+  "lines": [
+    {
+      "id": 135704,
+      "name": "Blight-ravaged Map (Tier 16)",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXBOdW1iZXJzMTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjI0LCJtdCI6MCwibXViIjp0cnVlfV0/5675b49373/MapNumbers16.png",
+      "prophecyText": null,
+      "artFilename": null,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          -4.55,
+          -9.09
+        ],
+        "totalChange": -9.09
+      },
+      "chaosValue": 20.0,
+      "exaltedValue": 23.46,
+      "divineValue": 0.18,
+      "count": 399,
+      "detailsId": "blight-ravaged-map-tier-16-t0-gen-24",
+      "variant": ", Gen-24"
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "core": {
+    "items": [
+      {
+        "id": "chaos",
+        "name": "Chaos Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxSYXJlIiwic2NhbGUiOjF9XQ/46a2347805/CurrencyRerollRare.png",
+        "category": "Currency",
+        "detailsId": "chaos-orb"
+      },
+      {
+        "id": "divine",
+        "name": "Divine Orb",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJzY2FsZSI6MX1d/ec48896769/CurrencyModValues.png",
+        "category": "Currency",
+        "detailsId": "divine-orb"
+      }
+    ],
+    "rates": {
+      "exalted": null,
+      "chaos": null,
+      "divine": 0.009243
+    },
+    "primary": "chaos",
+    "secondary": "divine"
+  },
+  "lines": [
+    {
+      "id": "omen-of-adrenaline",
+      "primaryValue": 1.24,
+      "volumePrimaryValue": 3.5,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.8095,
+      "sparkline": {
+        "totalChange": 23.53,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          23.53
+        ]
+      }
+    },
+    {
+      "id": "omen-of-amelioration",
+      "primaryValue": 22.42,
+      "volumePrimaryValue": 10214.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.04461,
+      "sparkline": {
+        "totalChange": 162.2,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          44.3,
+          162.2
+        ]
+      }
+    },
+    {
+      "id": "omen-of-brilliance",
+      "primaryValue": 7.75,
+      "volumePrimaryValue": 1444.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.129,
+      "sparkline": {
+        "totalChange": 267.2,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          76.16,
+          267.2
+        ]
+      }
+    },
+    {
+      "id": "omen-of-connections",
+      "primaryValue": 408.5,
+      "volumePrimaryValue": 8714.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.002448,
+      "sparkline": {
+        "totalChange": 54.0,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          40.38,
+          54.0
+        ]
+      }
+    },
+    {
+      "id": "omen-of-deaths-door",
+      "primaryValue": 1.29,
+      "volumePrimaryValue": 4.5,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.7778,
+      "sparkline": {
+        "totalChange": 2.86,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          6.67,
+          2.86
+        ]
+      }
+    },
+    {
+      "id": "omen-of-fortune",
+      "primaryValue": 2516.0,
+      "volumePrimaryValue": 16355.0,
+      "maxVolumeCurrency": "divine",
+      "maxVolumeRate": 0.043,
+      "sparkline": {
+        "totalChange": 194.4,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          104.5,
+          194.4
+        ]
+      }
+    },
+    {
+      "id": "omen-of-refreshment",
+      "primaryValue": 1.0,
+      "volumePrimaryValue": 5.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 1.0,
+      "sparkline": {
+        "totalChange": 0.0,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "id": "omen-of-return",
+      "primaryValue": 1.17,
+      "volumePrimaryValue": 18.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.8519,
+      "sparkline": {
+        "totalChange": 14.33,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          -3.94,
+          14.33
+        ]
+      }
+    },
+    {
+      "id": "omen-of-the-soul-devourer",
+      "primaryValue": 1.36,
+      "volumePrimaryValue": 5.67,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.7353,
+      "sparkline": {
+        "totalChange": 36.0,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          7.45,
+          36.0
+        ]
+      }
+    },
+    {
+      "id": "omen-of-trichromatism",
+      "primaryValue": 9.45,
+      "volumePrimaryValue": 1947.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.1058,
+      "sparkline": {
+        "totalChange": 101.3,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          50.36,
+          101.3
+        ]
+      }
+    },
+    {
+      "id": "omen-of-death-dancing",
+      "primaryValue": 1.56,
+      "volumePrimaryValue": 18.67,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.6429,
+      "sparkline": {
+        "totalChange": 55.56,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          7.32,
+          55.56
+        ]
+      }
+    },
+    {
+      "id": "omen-of-the-jeweller",
+      "primaryValue": 13.78,
+      "volumePrimaryValue": 6359.0,
+      "maxVolumeCurrency": "chaos",
+      "maxVolumeRate": 0.07255,
+      "sparkline": {
+        "totalChange": -18.47,
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0.0,
+          -0.59,
+          -18.47
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "omen-of-adrenaline",
+      "name": "Omen of Adrenaline",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1llbGxvdyIsInNjYWxlIjoxfV0/3713d430a2/VoodooOmens3Yellow.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-adrenaline"
+    },
+    {
+      "id": "omen-of-amelioration",
+      "name": "Omen of Amelioration",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMUJsdWUiLCJzY2FsZSI6MX1d/7af7f24083/VoodooOmens1Blue.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-amelioration"
+    },
+    {
+      "id": "omen-of-brilliance",
+      "name": "Omen of Brilliance",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNEJsdWUiLCJzY2FsZSI6MX1d/0fb19e3399/VoodooOmens4Blue.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-brilliance"
+    },
+    {
+      "id": "omen-of-connections",
+      "name": "Omen of Connections",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1B1cnBsZSIsInNjYWxlIjoxfV0/ef5b7d0a85/VoodooOmens3Purple.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-connections"
+    },
+    {
+      "id": "omen-of-deaths-door",
+      "name": "Omen of Death's Door",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNFllbGxvdyIsInNjYWxlIjoxfV0/6e22195c5b/VoodooOmens4Yellow.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-deaths-door"
+    },
+    {
+      "id": "omen-of-fortune",
+      "name": "Omen of Fortune",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMVB1cnBsZSIsInNjYWxlIjoxfV0/f7558b6e48/VoodooOmens1Purple.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-fortune"
+    },
+    {
+      "id": "omen-of-refreshment",
+      "name": "Omen of Refreshment",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlllbGxvdyIsInNjYWxlIjoxfV0/292381414c/VoodooOmens2Yellow.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-refreshment"
+    },
+    {
+      "id": "omen-of-return",
+      "name": "Omen of Return",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMkJsdWUiLCJzY2FsZSI6MX1d/bd2fd8bf5b/VoodooOmens2Blue.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-return"
+    },
+    {
+      "id": "omen-of-the-soul-devourer",
+      "name": "Omen of the Soul Devourer",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM0JsdWUiLCJzY2FsZSI6MX1d/00f28b94e2/VoodooOmens3Blue.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-the-soul-devourer"
+    },
+    {
+      "id": "omen-of-trichromatism",
+      "name": "Omen of Trichromatism",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNFB1cnBsZSIsInNjYWxlIjoxfV0/cc40d87dcb/VoodooOmens4Purple.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-trichromatism"
+    },
+    {
+      "id": "omen-of-death-dancing",
+      "name": "Omen of Death-dancing",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMVllbGxvdyIsInNjYWxlIjoxfV0/cbc6367481/VoodooOmens1Yellow.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-death-dancing"
+    },
+    {
+      "id": "omen-of-the-jeweller",
+      "name": "Omen of the Jeweller",
+      "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlB1cnBsZSIsInNjYWxlIjoxfV0/220fd7098d/VoodooOmens2Purple.png",
+      "category": "Ancestor",
+      "detailsId": "omen-of-the-jeweller"
+    }
+  ],
+  "LinesByName": {
+    "Omen of Adrenaline": {
+      "Item1": {
+        "id": "omen-of-adrenaline",
+        "primaryValue": 1.24,
+        "volumePrimaryValue": 3.5,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.8095,
+        "sparkline": {
+          "totalChange": 23.53,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            23.53
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-adrenaline",
+        "name": "Omen of Adrenaline",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1llbGxvdyIsInNjYWxlIjoxfV0/3713d430a2/VoodooOmens3Yellow.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-adrenaline"
+      },
+      "Item3": 1.24
+    },
+    "Omen of Amelioration": {
+      "Item1": {
+        "id": "omen-of-amelioration",
+        "primaryValue": 22.42,
+        "volumePrimaryValue": 10214.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.04461,
+        "sparkline": {
+          "totalChange": 162.2,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            44.3,
+            162.2
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-amelioration",
+        "name": "Omen of Amelioration",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMUJsdWUiLCJzY2FsZSI6MX1d/7af7f24083/VoodooOmens1Blue.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-amelioration"
+      },
+      "Item3": 22.42
+    },
+    "Omen of Brilliance": {
+      "Item1": {
+        "id": "omen-of-brilliance",
+        "primaryValue": 7.75,
+        "volumePrimaryValue": 1444.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.129,
+        "sparkline": {
+          "totalChange": 267.2,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            76.16,
+            267.2
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-brilliance",
+        "name": "Omen of Brilliance",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNEJsdWUiLCJzY2FsZSI6MX1d/0fb19e3399/VoodooOmens4Blue.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-brilliance"
+      },
+      "Item3": 7.75
+    },
+    "Omen of Connections": {
+      "Item1": {
+        "id": "omen-of-connections",
+        "primaryValue": 408.5,
+        "volumePrimaryValue": 8714.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.002448,
+        "sparkline": {
+          "totalChange": 54.0,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            40.38,
+            54.0
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-connections",
+        "name": "Omen of Connections",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM1B1cnBsZSIsInNjYWxlIjoxfV0/ef5b7d0a85/VoodooOmens3Purple.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-connections"
+      },
+      "Item3": 408.5
+    },
+    "Omen of Death's Door": {
+      "Item1": {
+        "id": "omen-of-deaths-door",
+        "primaryValue": 1.29,
+        "volumePrimaryValue": 4.5,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.7778,
+        "sparkline": {
+          "totalChange": 2.86,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            6.67,
+            2.86
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-deaths-door",
+        "name": "Omen of Death's Door",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNFllbGxvdyIsInNjYWxlIjoxfV0/6e22195c5b/VoodooOmens4Yellow.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-deaths-door"
+      },
+      "Item3": 1.29
+    },
+    "Omen of Fortune": {
+      "Item1": {
+        "id": "omen-of-fortune",
+        "primaryValue": 2516.0,
+        "volumePrimaryValue": 16355.0,
+        "maxVolumeCurrency": "divine",
+        "maxVolumeRate": 0.043,
+        "sparkline": {
+          "totalChange": 194.4,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            104.5,
+            194.4
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-fortune",
+        "name": "Omen of Fortune",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMVB1cnBsZSIsInNjYWxlIjoxfV0/f7558b6e48/VoodooOmens1Purple.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-fortune"
+      },
+      "Item3": 2516.0
+    },
+    "Omen of Refreshment": {
+      "Item1": {
+        "id": "omen-of-refreshment",
+        "primaryValue": 1.0,
+        "volumePrimaryValue": 5.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 1.0,
+        "sparkline": {
+          "totalChange": 0.0,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-refreshment",
+        "name": "Omen of Refreshment",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlllbGxvdyIsInNjYWxlIjoxfV0/292381414c/VoodooOmens2Yellow.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-refreshment"
+      },
+      "Item3": 1.0
+    },
+    "Omen of Return": {
+      "Item1": {
+        "id": "omen-of-return",
+        "primaryValue": 1.17,
+        "volumePrimaryValue": 18.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.8519,
+        "sparkline": {
+          "totalChange": 14.33,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            -3.94,
+            14.33
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-return",
+        "name": "Omen of Return",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMkJsdWUiLCJzY2FsZSI6MX1d/bd2fd8bf5b/VoodooOmens2Blue.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-return"
+      },
+      "Item3": 1.17
+    },
+    "Omen of the Soul Devourer": {
+      "Item1": {
+        "id": "omen-of-the-soul-devourer",
+        "primaryValue": 1.36,
+        "volumePrimaryValue": 5.67,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.7353,
+        "sparkline": {
+          "totalChange": 36.0,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            7.45,
+            36.0
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-the-soul-devourer",
+        "name": "Omen of the Soul Devourer",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zM0JsdWUiLCJzY2FsZSI6MX1d/00f28b94e2/VoodooOmens3Blue.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-the-soul-devourer"
+      },
+      "Item3": 1.36
+    },
+    "Omen of Trichromatism": {
+      "Item1": {
+        "id": "omen-of-trichromatism",
+        "primaryValue": 9.45,
+        "volumePrimaryValue": 1947.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.1058,
+        "sparkline": {
+          "totalChange": 101.3,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            50.36,
+            101.3
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-trichromatism",
+        "name": "Omen of Trichromatism",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zNFB1cnBsZSIsInNjYWxlIjoxfV0/cc40d87dcb/VoodooOmens4Purple.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-trichromatism"
+      },
+      "Item3": 9.45
+    },
+    "Omen of Death-dancing": {
+      "Item1": {
+        "id": "omen-of-death-dancing",
+        "primaryValue": 1.56,
+        "volumePrimaryValue": 18.67,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.6429,
+        "sparkline": {
+          "totalChange": 55.56,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            7.32,
+            55.56
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-death-dancing",
+        "name": "Omen of Death-dancing",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMVllbGxvdyIsInNjYWxlIjoxfV0/cbc6367481/VoodooOmens1Yellow.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-death-dancing"
+      },
+      "Item3": 1.56
+    },
+    "Omen of the Jeweller": {
+      "Item1": {
+        "id": "omen-of-the-jeweller",
+        "primaryValue": 13.78,
+        "volumePrimaryValue": 6359.0,
+        "maxVolumeCurrency": "chaos",
+        "maxVolumeRate": 0.07255,
+        "sparkline": {
+          "totalChange": -18.47,
+          "data": [
+            null,
+            null,
+            null,
+            null,
+            0.0,
+            -0.59,
+            -18.47
+          ]
+        }
+      },
+      "Item2": {
+        "id": "omen-of-the-jeweller",
+        "name": "Omen of the Jeweller",
+        "image": "/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXptZXJpL1Zvb2Rvb09tZW5zMlB1cnBsZSIsInNjYWxlIjoxfV0/220fd7098d/VoodooOmens2Purple.png",
+        "category": "Ancestor",
+        "detailsId": "omen-of-the-jeweller"
+      },
+      "Item3": 13.78
+    }
+  }
+}

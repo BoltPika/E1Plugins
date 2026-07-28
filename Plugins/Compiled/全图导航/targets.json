@@ -2210,35 +2210,35 @@
     {
       "Name": "side_entrance",
       "ExpectedCount": 1,
-      "DisplayName": "Arena"
+      "DisplayName": "竞技场"
     }
   ],
   "MapWorldsFortress": [
     {
       "Name": "robot_arena",
       "ExpectedCount": 1,
-      "DisplayName": "Arena"
+      "DisplayName": "竞技场"
     }
   ],
   "MapWorldsSanctuary": [
     {
       "Name": "Metadata/Terrain/Theopolis/Innocence/Stairs/Innocence_stairs_straight_v01_01.tdt",
       "ExpectedCount": 1,
-      "DisplayName": "Arena"
+      "DisplayName": "竞技场"
     }
   ],
   "MapWorldsZiggurat": [
     {
       "Name": "transition",
       "ExpectedCount": 2,
-      "DisplayName": "Arena"
+      "DisplayName": "竞技场"
     }
   ],
   "MapWorldsAbomination": [
     {
       "Name": "boss_arena",
       "ExpectedCount": 1,
-      "DisplayName": "Arena"
+      "DisplayName": "竞技场"
     }
   ],
   "*_Labyrinth_*": [
@@ -2338,7 +2338,7 @@
     {
       "Name": "Metadata/Terrain/Leagues/Settlers/Objects/VerisiumBossSubAreaEntrance",
       "ExpectedCount": 1,
-      "DisplayName": "Starfall Crater",
+      "DisplayName": "星陨坑",
       "TargetType": "Entity"
     }
   ]

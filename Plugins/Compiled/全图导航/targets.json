@@ -1,6 +1,12 @@
 {
   "*": [
     {
+      "Name": "Metadata/Terrain/Leagues/Ritual/RitualRuneObject",
+      "ExpectedCount": 99,
+      "DisplayName": "祭祀神坛",
+      "TargetType": "Entity"
+    },
+    {
       "Name": "*Mercenaries*",
       "ExpectedCount": 99,
       "DisplayName": "佣兵",

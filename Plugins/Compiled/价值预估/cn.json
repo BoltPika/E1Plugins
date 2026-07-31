@@ -6,312 +6,6 @@
         "class": "divination"
     },
     {
-        "label": "Achieve Ascension",
-        "value": "Achieve_Ascension",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Act Adversaries I",
-        "value": "Act_Adversaries_I",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Act Adversaries II",
-        "value": "Act_Adversaries_II",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Apex Assailants",
-        "value": "Apex_Assailants",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Astounding Astrolabes",
-        "value": "Astounding_Astrolabes",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Atlas Accomplishment",
-        "value": "Atlas_Accomplishment",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Atlas Assertions",
-        "value": "Atlas_Assertions",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Beginner's Basics",
-        "value": "Beginners_Basics",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Bountiful Bloodlines",
-        "value": "Bountiful_Bloodlines",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Brinerot's Bloody Bounty",
-        "value": "Brinerots_Bloody_Bounty",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Challenging Curators",
-        "value": "Challenging_Curators",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Chromatic Crafting",
-        "value": "Chromatic_Crafting",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Comprehensive Charting",
-        "value": "Comprehensive_Charting",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Corrupted Crystals",
-        "value": "Corrupted_Crystals",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Coursing Current Support",
-        "value": "Coursing_Current_Support",
-        "desc": "辅助宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Cross Contamination",
-        "value": "Cross_Contamination",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Crystalfall Support",
-        "value": "Crystalfall_Support",
-        "desc": "辅助宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Deep Dive",
-        "value": "Deep_Dive",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Devious Divination",
-        "value": "Devious_Divination",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Divine Blast of Radiance",
-        "value": "Divine_Blast_of_Radiance",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Ethereal Enhancements",
-        "value": "Ethereal_Enhancements",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Excruciating Echoes",
-        "value": "Excruciating_Echoes",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Fathomless Fears",
-        "value": "Fathomless_Fears",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Gallant Grinding Goals",
-        "value": "Gallant_Grinding_Goals",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Holy Hammers of Spirals",
-        "value": "Holy_Hammers_of_Spirals",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Holy Sweep of Hammerfalls",
-        "value": "Holy_Sweep_of_Hammerfalls",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Horrific Halls",
-        "value": "Horrific_Halls",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Ingrained Increases",
-        "value": "Ingrained_Increases",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Intrigued Interlopers",
-        "value": "Intrigued_Interlopers",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Legendary Leagues",
-        "value": "Legendary_Leagues",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Mana-Infused Staff",
-        "value": "Mana-Infused_Staff",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Modified Maps",
-        "value": "Modified_Maps",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Nautical Navigation",
-        "value": "Nautical_Navigation",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Pact of Beidat",
-        "value": "Pact_of_Beidat",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Pact of Ghorr",
-        "value": "Pact_of_Ghorr",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Pact of K'Tash",
-        "value": "Pact_of_KTash",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Pact of Lycia",
-        "value": "Pact_of_Lycia",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Peddler's Produce I",
-        "value": "Peddlers_Produce_I",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Peddler's Produce II",
-        "value": "Peddlers_Produce_II",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Possessive Pantheons",
-        "value": "Possessive_Pantheons",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Potent Possibilities",
-        "value": "Potent_Possibilities",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Reap of Butchery",
-        "value": "Reap_of_Butchery",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
-        "label": "Remarkable Realms",
-        "value": "Remarkable_Realms",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Savage Sellswords",
-        "value": "Savage_Sellswords",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Stacked Scarabs",
-        "value": "Stacked_Scarabs",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Succinct Summons",
-        "value": "Succinct_Summons",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Superior Sovereign",
-        "value": "Superior_Sovereign",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Taxing Tasks",
-        "value": "Taxing_Tasks",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Trustworthy Teachers",
-        "value": "Trustworthy_Teachers",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Underwater Undertaking",
-        "value": "Underwater_Undertaking",
-        "desc": "成就",
-        "class": ""
-    },
-    {
-        "label": "Vanquished Villains",
-        "value": "Vanquished_Villains",
-        "desc": "成就",
-        "class": ""
-    },
-    {
         "label": "WIP Support",
         "value": "WIP_Support",
         "desc": "辅助宝石",
@@ -460,6 +154,12 @@
         "value": "Prismatic_Jewel",
         "desc": "珠宝",
         "class": ""
+    },
+    {
+        "label": "三色预兆",
+        "value": "Omen_of_Trichromatism",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "三角帽",
@@ -732,6 +432,12 @@
         "class": ""
     },
     {
+        "label": "不洁帮凶",
+        "value": "Unholy_Accomplice",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "不灭余烬",
         "value": "Embers_of_the_Allflame",
         "desc": "Item Classes",
@@ -748,6 +454,12 @@
         "value": "Sleepless_Sentries",
         "desc": "星团珠宝",
         "class": ""
+    },
+    {
+        "label": "不眨之眼",
+        "value": "The_Unblinking_Eye",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "不知疲倦",
@@ -1086,6 +798,12 @@
         "class": ""
     },
     {
+        "label": "丰饶血统",
+        "value": "Bountiful_Bloodlines",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "丰饶起源",
         "value": "Fertile_Genesis",
         "desc": "天赋",
@@ -1215,6 +933,12 @@
         "label": "乌木短杖",
         "value": "Darkwood_Sceptre",
         "desc": "短杖",
+        "class": ""
+    },
+    {
+        "label": "乌贼魔符",
+        "value": "Squid_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -1500,6 +1224,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "亡者硫磺",
+        "value": "Dead_Mans_Sulphur",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "亡魂之召唤追命死灵",
         "value": "Summon_Reaper_of_Revenants",
         "desc": "技能宝石",
@@ -1516,6 +1246,12 @@
         "value": "Artillery_Ballista_of_Cross_Strafe",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "交叉污染 ",
+        "value": "Cross_Contamination",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "交换长杖",
@@ -1558,6 +1294,12 @@
         "value": "Unearth",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "亵渎仪式",
+        "value": "Unhallowed_Rite",
+        "desc": "天赋",
+        "class": ""
     },
     {
         "label": "亵渎圣杯",
@@ -1908,6 +1650,12 @@
         "class": ""
     },
     {
+        "label": "传奇武器",
+        "value": "Legendary_Arms",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "传奇灾星",
         "value": "Bane_of_Legends",
         "desc": "天赋",
@@ -1923,6 +1671,12 @@
         "label": "传奇神盗罗格斯",
         "value": "Gorulis%2C_Will-Thief",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "传奇联盟",
+        "value": "Legendary_Leagues",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -2052,6 +1806,12 @@
         "class": "gemitem"
     },
     {
+        "label": "佐拉斯，恶孽合体",
+        "value": "Zorath%2C_Vile_Assembled",
+        "desc": "怪物",
+        "class": ""
+    },
+    {
         "label": "余烬之女勒丽莉果雅",
         "value": "Leli_Goya%2C_Daughter_of_Ash",
         "desc": "怪物",
@@ -2080,6 +1840,12 @@
         "value": "The_Mercenary",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "佣兵凭证",
+        "value": "Mercenary_Warrant",
+        "desc": "地图碎片",
+        "class": ""
     },
     {
         "label": "佣兵领地",
@@ -2206,6 +1972,12 @@
         "value": "Faithguard",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "信仰武备",
+        "value": "Faith_in_Arms",
+        "desc": "天赋",
+        "class": ""
     },
     {
         "label": "信仰试炼",
@@ -2492,6 +2264,12 @@
     {
         "label": "元素注入",
         "value": "Primeval_Force",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "元素洁癖",
+        "value": "Voracious_Flame",
         "desc": "天赋",
         "class": ""
     },
@@ -2868,6 +2646,12 @@
         "class": "gemitem"
     },
     {
+        "label": "光明使者",
+        "value": "Luminary",
+        "desc": "升华试炼",
+        "class": ""
+    },
+    {
         "label": "光明偷猎者",
         "value": "Lightpoacher",
         "desc": "传奇",
@@ -2918,6 +2702,12 @@
     {
         "label": "光谱之元素打击",
         "value": "Elemental_Hit_of_the_Spectrum",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
+        "label": "光辉之神圣冲击",
+        "value": "Divine_Blast_of_Radiance",
         "desc": "技能宝石",
         "class": "gemitem"
     },
@@ -3015,12 +2805,6 @@
         "label": "公义卫士",
         "value": "Axiom_Warden",
         "desc": "永恒珠宝",
-        "class": ""
-    },
-    {
-        "label": "公正之仪",
-        "value": "Instruments_of_Justice",
-        "desc": "天赋",
         "class": ""
     },
     {
@@ -3256,6 +3040,12 @@
         "value": "Regenerative_Runes",
         "desc": "永恒珠宝",
         "class": ""
+    },
+    {
+        "label": "再造恶意",
+        "value": "Reclaimed_Malevolence",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "冒险精神",
@@ -3558,6 +3348,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "冰电奔涌（辅）",
+        "value": "Coursing_Current_Support",
+        "desc": "辅助宝石",
+        "class": "gemitem"
+    },
+    {
         "label": "冰矛",
         "value": "Ice_Spear",
         "desc": "技能宝石",
@@ -3616,6 +3412,12 @@
         "value": "Purity_of_Ice",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "冰霜地狱犬魔符",
+        "value": "Frost_Hellion_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "冰霜射击",
@@ -3760,6 +3562,12 @@
         "value": "Duelist_Ascendancy",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "决斗者的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Duelist",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "冷光长剑",
@@ -4176,6 +3984,12 @@
         "class": ""
     },
     {
+        "label": "凶蛮佣兵",
+        "value": "Savage_Sellswords",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "凶蛮回荡",
         "value": "Savage_Response",
         "desc": "星团珠宝",
@@ -4185,6 +3999,12 @@
         "label": "凶骇武士",
         "value": "Fearsome_Warrior",
         "desc": "星团珠宝",
+        "class": ""
+    },
+    {
+        "label": "凶鸟魔符",
+        "value": "Rhex_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -4288,6 +4108,12 @@
         "value": "Crackling_Lance_of_Branching",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "分叉暴击",
+        "value": "Bifurcated_Critical_Strikes",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "分形思维",
@@ -5322,6 +5148,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "升华",
+        "value": "Achieve_Ascension",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "升华之冠",
         "value": "Demigods_Triumph",
         "desc": "传奇",
@@ -5634,6 +5466,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "占卜球",
+        "value": "Scrying_Orb",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "占地者的孕育石",
         "value": "Geomancers_Incubator",
         "desc": "孕育石",
@@ -5716,6 +5554,12 @@
         "value": "Khatals_Geyser",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "卡塔科希纪念币",
+        "value": "Katakohis_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "卡塔莉娜的梦魇",
@@ -5878,6 +5722,12 @@
         "value": "The_Dishonoured_Queen",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "卡鲁雾隐水晶",
+        "value": "Karui_Enshrouding_Crystal",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "卢库斯",
@@ -6288,6 +6138,12 @@
         "class": ""
     },
     {
+        "label": "反刍鸟魔符",
+        "value": "Retch_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "反射",
         "value": "Reflexes",
         "desc": "天赋",
@@ -6358,6 +6214,12 @@
         "value": "Blessed_Rebirth",
         "desc": "星团珠宝",
         "class": ""
+    },
+    {
+        "label": "变化灵纪念币",
+        "value": "The_Changelings_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "变化的融合体",
@@ -6726,6 +6588,12 @@
         "class": ""
     },
     {
+        "label": "可靠导师",
+        "value": "Trustworthy_Teachers",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "史典长杖",
         "value": "Primordial_Staff",
         "desc": "长杖",
@@ -6904,6 +6772,12 @@
         "value": "The_Devouring_Diadem",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "吞噬者魔符",
+        "value": "Devourer_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "吞噬（辅）",
@@ -7278,6 +7152,18 @@
         "class": "UniqueItem"
     },
     {
+        "label": "咕尔契约",
+        "value": "Pact_of_Ghorr",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
+        "label": "咕尔饥渴",
+        "value": "Hunger_of_Ghorr",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "咫尺之恨",
         "value": "Adjacent_Animosity",
         "desc": "天赋",
@@ -7374,6 +7260,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "唤潮者",
+        "value": "Tide_Caller",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "唤灵尸王",
         "value": "Lingering_Aberration",
         "desc": "怪物",
@@ -7425,6 +7317,12 @@
         "label": "喋血之刃",
         "value": "Bloodsoaked_Blade",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "喷砂爪蟹魔符",
+        "value": "Sand_Spitter_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -7482,6 +7380,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "噩兆统御",
+        "value": "Baleful_Dominion",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "噩梦水银",
         "value": "Amalgam_of_Nightmares",
         "desc": "怪物",
@@ -7512,6 +7416,12 @@
         "class": "divination"
     },
     {
+        "label": "噬骨者",
+        "value": "Bone_Feeders",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "噬魂之牙",
         "value": "Mortem_Morsu",
         "desc": "传奇",
@@ -7526,7 +7436,7 @@
     {
         "label": "噬魂者",
         "value": "Soul_Eater",
-        "desc": "罪恶枷锁",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -7840,6 +7750,18 @@
         "value": "Templar_Ascendancy",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "圣堂武僧的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Templar",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
+        "label": "圣堂雾隐水晶",
+        "value": "Templar_Enshrouding_Crystal",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "圣宗",
@@ -8169,6 +8091,12 @@
         "label": "地图",
         "value": "Maps",
         "desc": "Item Classes",
+        "class": ""
+    },
+    {
+        "label": "地图占卜",
+        "value": "Map_Scrying",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -8556,6 +8484,12 @@
         "class": ""
     },
     {
+        "label": "垂钓之钩链攻击",
+        "value": "Chain_Hook_of_Angling",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
         "label": "垂青之运",
         "value": "The_Fortunate",
         "desc": "命运卡",
@@ -8619,6 +8553,18 @@
         "label": "基础易容工具",
         "value": "Basic_Disguise_Kit",
         "desc": "赏金猎人工具",
+        "class": ""
+    },
+    {
+        "label": "基础通货物品",
+        "value": "Basic_Currency",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "堆叠圣甲虫",
+        "value": "Stacked_Scarabs",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -9576,6 +9522,12 @@
         "class": "gemitem"
     },
     {
+        "label": "大地魔符",
+        "value": "Farric_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "大型复合药剂",
         "value": "Large_Hybrid_Flask",
         "desc": "复合药剂",
@@ -9924,6 +9876,12 @@
         "class": ""
     },
     {
+        "label": "头狼魔符",
+        "value": "Wolf_Alpha_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "头部",
         "value": "Helmets",
         "desc": "Item Classes",
@@ -10194,6 +10152,18 @@
         "class": ""
     },
     {
+        "label": "契约恩赐",
+        "value": "Pact_Boons",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "契约苦痛",
+        "value": "Pact_Afflictions",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "契约：储藏库",
         "value": "Contract%3A_Repository",
         "desc": "契约",
@@ -10380,6 +10350,12 @@
         "class": ""
     },
     {
+        "label": "奥术节约",
+        "value": "Arcane_Conservation",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "奥术英姿",
         "value": "Arcane_Heroism",
         "desc": "星团珠宝",
@@ -10466,6 +10442,12 @@
     {
         "label": "女巫印记之符文嵌板",
         "value": "Runegraft_of_the_Witchmark",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
+        "label": "女巫的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Witch",
         "desc": "可堆叠通货",
         "class": "item_currency"
     },
@@ -10584,6 +10566,12 @@
         "class": "divination"
     },
     {
+        "label": "好奇入侵者",
+        "value": "Intrigued_Interlopers",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "好战之灵",
         "value": "Warmonger",
         "desc": "怪物",
@@ -10668,6 +10656,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "威名之特拉特斯圣甲虫",
+        "value": "Trarthan_Scarab_of_Renown",
+        "desc": "地图碎片",
+        "class": ""
+    },
+    {
         "label": "威吓战吼",
         "value": "Intimidating_Cry",
         "desc": "技能宝石",
@@ -10684,6 +10678,12 @@
         "value": "Wilmas_Requital",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "威权之佐拉斯之眼",
+        "value": "Zoraths_Eye_of_Authority",
+        "desc": "地图碎片",
+        "class": ""
     },
     {
         "label": "威权巨锤",
@@ -10989,6 +10989,12 @@
         "label": "守望者",
         "value": "Warden",
         "desc": "升华试炼",
+        "class": ""
+    },
+    {
+        "label": "守望者魔符",
+        "value": "Watcher_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -11970,6 +11976,24 @@
         "class": ""
     },
     {
+        "label": "小巧封地",
+        "value": "Minor_Fiefdoms",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "小贩出品 I",
+        "value": "Peddlers_Produce_I",
+        "desc": "成就",
+        "class": ""
+    },
+    {
+        "label": "小贩出品 II",
+        "value": "Peddlers_Produce_II",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "小鬼之冠",
         "value": "Imp_Crown",
         "desc": "头部",
@@ -12096,16 +12120,10 @@
         "class": "UniqueItem"
     },
     {
-        "label": "尽职的士兵",
+        "label": "尽职士兵",
         "value": "The_Dutiful_Soldier",
         "desc": "天赋",
         "class": ""
-    },
-    {
-        "label": "局势逆转者",
-        "value": "Tidebreaker",
-        "desc": "传奇",
-        "class": "UniqueItem"
     },
     {
         "label": "层板鸢盾",
@@ -12160,6 +12178,12 @@
         "value": "Crave_the_Slaughter",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "屠戮之赤炼收割",
+        "value": "Reap_of_Butchery",
+        "desc": "技能宝石",
+        "class": "gemitem"
     },
     {
         "label": "屠龙猎手",
@@ -12318,6 +12342,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "巅峰猎手",
+        "value": "Apex_Assailants",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "巅峰钥匙环",
         "value": "Grandmaster_Keyring",
         "desc": "赏金猎人工具",
@@ -12450,6 +12480,18 @@
         "class": ""
     },
     {
+        "label": "巨人魔符",
+        "value": "Goliath_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
+        "label": "巨像魔符",
+        "value": "Gargantuan_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "巨剑之剑刃陷阱",
         "value": "Blade_Trap_of_Greatswords",
         "desc": "技能宝石",
@@ -12534,6 +12576,12 @@
         "class": ""
     },
     {
+        "label": "巨大裂齿兽魔符",
+        "value": "Great_Maw_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "巨岩指套",
         "value": "Cyclopean_Coil",
         "desc": "传奇",
@@ -12543,12 +12591,6 @@
         "label": "巨战斧",
         "value": "Poleaxe",
         "desc": "双手斧",
-        "class": ""
-    },
-    {
-        "label": "巨构之深渊圣甲虫",
-        "value": "Abyss_Scarab_of_Crystals",
-        "desc": "地图碎片",
         "class": ""
     },
     {
@@ -12660,6 +12702,12 @@
         "class": ""
     },
     {
+        "label": "巫妖之凝视",
+        "value": "Gaze_of_the_Lich",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "巫婆",
         "value": "The_Witch",
         "desc": "命运卡",
@@ -12744,6 +12792,12 @@
         "class": ""
     },
     {
+        "label": "布林胡克纪念币",
+        "value": "Brinehooks_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "布琳洛特之旗",
         "value": "Brinerot_Flag",
         "desc": "传奇",
@@ -12756,10 +12810,16 @@
         "class": "UniqueItem"
     },
     {
-        "label": "布琳洛特岸行者",
+        "label": "布琳洛特捕鲸人",
         "value": "Brinerot_Whalers",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "布琳洛特的血赏",
+        "value": "Brinerots_Bloody_Bounty",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "布陷者手套",
@@ -12900,6 +12960,12 @@
         "class": ""
     },
     {
+        "label": "帝国雾隐水晶",
+        "value": "Imperial_Enshrouding_Crystal",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "帝王的智慧",
         "value": "Emperors_Wit",
         "desc": "传奇",
@@ -12964,6 +13030,12 @@
         "value": "The_Vast",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "平定四海",
+        "value": "Comprehensive_Charting",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "平稳短杖",
@@ -13446,6 +13518,18 @@
         "class": ""
     },
     {
+        "label": "异界宣言",
+        "value": "Atlas_Assertions",
+        "desc": "成就",
+        "class": ""
+    },
+    {
+        "label": "异界成就",
+        "value": "Atlas_Accomplishment",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "异界行者孕育石",
         "value": "Otherworldly_Incubator",
         "desc": "孕育石",
@@ -13713,6 +13797,12 @@
         "label": "强化星辉",
         "value": "Enhanced_Starlight",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "强化法术",
+        "value": "Empowered_Spells",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -14274,6 +14364,12 @@
         "class": ""
     },
     {
+        "label": "必然之佐拉斯之眼",
+        "value": "Zoraths_Eye_of_the_Inevitable",
+        "desc": "地图碎片",
+        "class": ""
+    },
+    {
         "label": "忌妒之咆哮精华",
         "value": "Screaming_Essence_of_Envy",
         "desc": "可堆叠通货",
@@ -14400,10 +14496,22 @@
         "class": "gemitem"
     },
     {
+        "label": "忠诚保镖",
+        "value": "Loyal_Bodyguard",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "忠诚的代价",
         "value": "The_Price_of_Loyalty",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "忠诚誓言",
+        "value": "Oath_of_Fealty",
+        "desc": "天赋",
+        "class": ""
     },
     {
         "label": "忠诚钢印",
@@ -14676,6 +14784,12 @@
         "class": ""
     },
     {
+        "label": "怪物分裂",
+        "value": "Monster_Fracturing",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "总督御令",
         "value": "Word_of_the_Exarch",
         "desc": "天赋",
@@ -14685,6 +14799,12 @@
         "label": "恐兽皮盔",
         "value": "Dire_Pelt",
         "desc": "头部",
+        "class": ""
+    },
+    {
+        "label": "恐喙鸟魔符",
+        "value": "Rhoa_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -14844,6 +14964,12 @@
         "class": ""
     },
     {
+        "label": "恐惧船长的弯刀",
+        "value": "Dread_Captains_Cutlass",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "恐惧重锤",
         "value": "Fright_Maul",
         "desc": "双手锤",
@@ -14943,6 +15069,12 @@
         "label": "恶化创伤",
         "value": "Wound_Aggravation",
         "desc": "星团珠宝",
+        "class": ""
+    },
+    {
+        "label": "恶名之特拉特斯圣甲虫",
+        "value": "Trarthan_Scarab_of_Infamy",
+        "desc": "地图碎片",
         "class": ""
     },
     {
@@ -15048,6 +15180,12 @@
         "class": ""
     },
     {
+        "label": "恶名枢机主教",
+        "value": "Infamous_Cardinal",
+        "desc": "佣兵",
+        "class": ""
+    },
+    {
         "label": "恶名残酷女王",
         "value": "Infamous_Cruel_Mistress",
         "desc": "佣兵",
@@ -15084,6 +15222,12 @@
         "class": ""
     },
     {
+        "label": "恶名神秘潜行者",
+        "value": "Infamous_Mysterious_Diver",
+        "desc": "佣兵",
+        "class": ""
+    },
+    {
         "label": "恶名血咒师",
         "value": "Infamous_Sanguimancer",
         "desc": "佣兵",
@@ -15114,6 +15258,18 @@
         "class": ""
     },
     {
+        "label": "恶徒伏诛",
+        "value": "Vanquished_Villains",
+        "desc": "成就",
+        "class": ""
+    },
+    {
+        "label": "恶意之佐拉斯之眼",
+        "value": "Zoraths_Eye_of_Malevolence",
+        "desc": "地图碎片",
+        "class": ""
+    },
+    {
         "label": "恶毒之击",
         "value": "Smite_the_Wicked",
         "desc": "永恒珠宝",
@@ -15135,12 +15291,6 @@
         "label": "恶毒撕咬",
         "value": "Vicious_Bite",
         "desc": "星团珠宝",
-        "class": ""
-    },
-    {
-        "label": "恶毒牢房",
-        "value": "Unhallowed_Rite",
-        "desc": "天赋",
         "class": ""
     },
     {
@@ -15360,6 +15510,12 @@
         "class": "divination"
     },
     {
+        "label": "惊奇星盘",
+        "value": "Astounding_Astrolabes",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "惊奇破坏",
         "value": "Surprise_Sabotage",
         "desc": "星团珠宝",
@@ -15390,6 +15546,12 @@
         "class": ""
     },
     {
+        "label": "惊悚殿堂",
+        "value": "Horrific_Halls",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "惊悸剧院",
         "value": "The_Ghastly_Theatre",
         "desc": "传奇",
@@ -15411,6 +15573,12 @@
         "label": "惊海之王索亚格斯",
         "value": "Tsoagoth%2C_The_Brine_King",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "惊海球",
+        "value": "Brine_Charges",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -15484,6 +15652,12 @@
         "value": "The_Unexpected_Prize",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "意外联盟之特拉特斯圣甲虫",
+        "value": "Trarthan_Scarab_of_Surprising_Alliances",
+        "desc": "地图碎片",
+        "class": ""
     },
     {
         "label": "意志之力",
@@ -16350,6 +16524,12 @@
         "class": ""
     },
     {
+        "label": "技能短缺",
+        "value": "Skills_Shortage",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "技能硬币",
         "value": "Coin_of_Skill",
         "desc": "可堆叠通货",
@@ -16632,12 +16812,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "拉扯之钩链攻击",
-        "value": "Chain_Hook_of_Angling",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
         "label": "拉维安加之泉",
         "value": "Laviangas_Spirit",
         "desc": "传奇",
@@ -16818,6 +16992,12 @@
         "class": ""
     },
     {
+        "label": "挑战馆长",
+        "value": "Challenging_Curators",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "挥霍子代",
         "value": "Prodigal_Offspring",
         "desc": "天赋",
@@ -16870,6 +17050,12 @@
         "value": "The_Shortcut",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "授勋骑士",
+        "value": "Bestowed_Knighthood",
+        "desc": "天赋",
+        "class": ""
     },
     {
         "label": "掘灭之火葬",
@@ -16966,6 +17152,12 @@
         "value": "Titucius_Span",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "提扎墨脱纪念币",
+        "value": "Tzamotos_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "提督的傲慢",
@@ -17286,6 +17478,12 @@
         "class": "divination"
     },
     {
+        "label": "教育缩水",
+        "value": "Education_Cuts",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "敛骸之召唤腐化魔像",
         "value": "Summon_Carrion_Golem_of_Scavenging",
         "desc": "技能宝石",
@@ -17391,6 +17589,12 @@
         "label": "斗杖者之力",
         "value": "Wandslinger",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "斗牛犬魔符",
+        "value": "Pitbull_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -17506,6 +17710,12 @@
         "value": "NewPunishment",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "新手基础",
+        "value": "Beginners_Basics",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "新星",
@@ -17748,6 +17958,12 @@
         "class": "gemitem"
     },
     {
+        "label": "无尽之佐拉斯之眼",
+        "value": "Zoraths_Eye_of_the_Endless",
+        "desc": "地图碎片",
+        "class": ""
+    },
+    {
         "label": "无尽之卫",
         "value": "The_Restless_Ward",
         "desc": "传奇",
@@ -17907,6 +18123,12 @@
         "label": "无序魂刃",
         "value": "Anarchic_Spiritblade",
         "desc": "单手剑",
+        "class": ""
+    },
+    {
+        "label": "无底恐惧",
+        "value": "Fathomless_Fears",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -18076,6 +18298,12 @@
         "value": "No_Traces",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "无限可能",
+        "value": "Potent_Possibilities",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "无限弹药",
@@ -18570,12 +18798,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "暗夜契约",
-        "value": "Dark_Bargain",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
         "label": "暗夜弑衣",
         "value": "Fenumus_Shroud",
         "desc": "传奇",
@@ -18592,12 +18814,6 @@
         "value": "Fenumus_Weave",
         "desc": "传奇",
         "class": "UniqueItem"
-    },
-    {
-        "label": "暗夜血契",
-        "value": "Dark_Bargain",
-        "desc": "技能宝石",
-        "class": "item_gem"
     },
     {
         "label": "暗影",
@@ -18700,6 +18916,12 @@
         "value": "Ciergan%2C_Shadow_Alchemist",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "暗影的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Shadow",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "暗影的重负",
@@ -19014,6 +19236,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "曲折命运",
+        "value": "Devious_Divination",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "曲空之符文嵌板",
         "value": "Runegraft_of_the_Warp",
         "desc": "可堆叠通货",
@@ -19170,6 +19398,12 @@
         "class": "item_currency"
     },
     {
+        "label": "有效几率",
+        "value": "Effective_Chance",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "有效领导",
         "value": "Effective_Leadership",
         "desc": "天赋",
@@ -19234,6 +19468,12 @@
         "value": "Instinct",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "札娜的才智",
+        "value": "Zanas_Ingenuity",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "札德图斯的圣衣",
@@ -19572,6 +19812,12 @@
         "class": "item_currency"
     },
     {
+        "label": "枢机主教",
+        "value": "Cardinal",
+        "desc": "佣兵",
+        "class": ""
+    },
+    {
         "label": "枢纽手套",
         "value": "Nexus_Gloves",
         "desc": "手套",
@@ -19653,6 +19899,12 @@
         "label": "查兰之剑",
         "value": "Charans_Sword",
         "desc": "单手剑",
+        "class": ""
+    },
+    {
+        "label": "柯伊塔霸权",
+        "value": "Keitan_Supremacy",
+        "desc": "天赋",
         "class": ""
     },
     {
@@ -19788,6 +20040,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "梅里克纪念币",
+        "value": "Merricks_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "梦之涟漪",
         "value": "Draped_in_Dreams",
         "desc": "命运卡",
@@ -19863,6 +20121,18 @@
         "label": "梳洗之刑",
         "value": "Brush_with_Death",
         "desc": "星团珠宝",
+        "class": ""
+    },
+    {
+        "label": "棋逢对手 I",
+        "value": "Act_Adversaries_I",
+        "desc": "成就",
+        "class": ""
+    },
+    {
+        "label": "棋逢对手 II",
+        "value": "Act_Adversaries_II",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -20142,10 +20412,22 @@
         "class": ""
     },
     {
+        "label": "欺诈星盘",
+        "value": "Deceptive_Astrolabe",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "欺诈獠牙",
         "value": "Gruthkuls_Pelt",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "正义之器",
+        "value": "Instruments_of_Justice",
+        "desc": "天赋",
+        "class": ""
     },
     {
         "label": "正义之庭",
@@ -20856,6 +21138,12 @@
         "class": ""
     },
     {
+        "label": "毁灭渴望",
+        "value": "Destructive_Aspiration",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "毁灭游戏",
         "value": "Destructive_Play",
         "desc": "传奇",
@@ -20988,6 +21276,18 @@
         "class": ""
     },
     {
+        "label": "毒蝎魔符",
+        "value": "Scorpion_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
+        "label": "毒血蛇魔符",
+        "value": "Blood_Viper_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "毒雨",
         "value": "Toxic_Rain",
         "desc": "技能宝石",
@@ -21042,9 +21342,21 @@
         "class": "gemitem"
     },
     {
+        "label": "水下行动",
+        "value": "Underwater_Undertaking",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "水之女神",
         "value": "The_Goddess_of_Water",
         "desc": "赏金目标",
+        "class": ""
+    },
+    {
+        "label": "水晶之深渊圣甲虫",
+        "value": "Abyss_Scarab_of_Crystals",
+        "desc": "地图碎片",
         "class": ""
     },
     {
@@ -21082,6 +21394,12 @@
         "value": "Crystal_Belt",
         "desc": "腰带",
         "class": ""
+    },
+    {
+        "label": "水晶陨落（辅）",
+        "value": "Crystalfall_Support",
+        "desc": "辅助宝石",
+        "class": "gemitem"
     },
     {
         "label": "水源法球",
@@ -21564,6 +21882,12 @@
         "class": ""
     },
     {
+        "label": "沉思冥想",
+        "value": "Contemplative_Meditation",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "沉沦之间",
         "value": "Poorjoys_Asylum",
         "desc": "传奇",
@@ -21880,6 +22204,12 @@
         "value": "Stone_of_the_Currents",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "注魔长杖",
+        "value": "Mana-Infused_Staff",
+        "desc": "技能宝石",
+        "class": "gemitem"
     },
     {
         "label": "泪腺坏死",
@@ -22236,6 +22566,12 @@
         "class": ""
     },
     {
+        "label": "海图",
+        "value": "Chart",
+        "desc": "Item Classes",
+        "class": ""
+    },
+    {
         "label": "海塞莉亚女士",
         "value": "Mistress_Hyseria",
         "desc": "怪物",
@@ -22368,6 +22704,12 @@
         "class": ""
     },
     {
+        "label": "海蚀腐化",
+        "value": "Brine_Rot",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "海贼长刀",
         "value": "Corsair_Sword",
         "desc": "单手剑",
@@ -22494,10 +22836,28 @@
         "class": "gemitem"
     },
     {
+        "label": "深度潜水",
+        "value": "Deep_Dive",
+        "desc": "成就",
+        "class": ""
+    },
+    {
+        "label": "深水遗迹之珠",
+        "value": "Pearl_of_Tsoatha",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "深海初子 克林斯昂",
         "value": "Craiceann%2C_First_of_the_Deep",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "深海水疱",
+        "value": "Seablister",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "深海猎杀",
@@ -22534,6 +22894,12 @@
         "value": "The_Darkest_Dream",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "深渊",
+        "value": "Abyss",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "深渊之唤",
@@ -22596,6 +22962,12 @@
         "class": ""
     },
     {
+        "label": "深渊水晶",
+        "value": "Abyssal_Crystal",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "深渊珠宝",
         "value": "Abyss_Jewels",
         "desc": "Item Classes",
@@ -22623,6 +22995,12 @@
         "label": "深渊腰带",
         "value": "Stygian_Vise",
         "desc": "腰带",
+        "class": ""
+    },
+    {
+        "label": "深渊血脉",
+        "value": "Abyssal_Bloodline",
+        "desc": "Bloodline",
         "class": ""
     },
     {
@@ -22770,6 +23148,12 @@
         "class": "gemitem"
     },
     {
+        "label": "混血异蛛魔符",
+        "value": "Hybrid_Arachnid_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "清明梦",
         "value": "Lucid_Dreams",
         "desc": "传奇",
@@ -22908,6 +23292,12 @@
         "class": ""
     },
     {
+        "label": "游侠的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Ranger",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "游击战",
         "value": "Guerilla_Tactics",
         "desc": "星团珠宝",
@@ -22924,6 +23314,12 @@
         "value": "Bringer_of_Ruin",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "溃烂复仇",
+        "value": "Festering_Vengeance",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "溃败",
@@ -22944,6 +23340,12 @@
         "class": "item_currency"
     },
     {
+        "label": "源质兼并",
+        "value": "Subsume_the_Source",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "滑布外套",
         "value": "Sleek_Coat",
         "desc": "胸甲",
@@ -22960,6 +23362,12 @@
         "value": "Replica_Loreweave",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "满缀地图",
+        "value": "Modified_Maps",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "满血伤害（辅）",
@@ -22984,6 +23392,12 @@
         "value": "Terror_of_the_Infinite_Drifts",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "漂流瓶",
+        "value": "Message_in_a_Bottle",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "漆彩之盔",
@@ -24246,6 +24660,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "烈炎地狱犬魔符",
+        "value": "Flame_Hellion_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "烈炎羁绊",
         "value": "Flame_Link",
         "desc": "技能宝石",
@@ -24370,6 +24790,12 @@
         "value": "Smoke_Mine",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "烧杀掳掠",
+        "value": "Loot_and_Pillage",
+        "desc": "天赋",
+        "class": ""
     },
     {
         "label": "烧毁",
@@ -24558,6 +24984,12 @@
         "class": ""
     },
     {
+        "label": "熄灭之握",
+        "value": "Extinguishing_Grasp",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "熊之束腰",
         "value": "Bears_Girdle",
         "desc": "传奇",
@@ -24568,6 +25000,12 @@
         "value": "The_Bear_Woman",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "熊战士魔符",
+        "value": "Ursa_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "熊熊燃烧",
@@ -24616,6 +25054,12 @@
         "value": "Molten_Shell",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "熔岩猎犬魔符",
+        "value": "Magma_Hound_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "熔岩者印记",
@@ -24822,6 +25266,12 @@
         "class": ""
     },
     {
+        "label": "爬虫魔符",
+        "value": "Scrabbler_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "爱的回音",
         "value": "Echoes_of_Love",
         "desc": "命运卡",
@@ -24942,12 +25392,6 @@
         "class": "gemitem"
     },
     {
-        "label": "特拉特斯之暗夜血契",
-        "value": "Dark_Bargain_of_Trarthus",
-        "desc": "技能宝石",
-        "class": "gemitem"
-    },
-    {
         "label": "特拉特斯之灵体投掷",
         "value": "Spectral_Throw_of_Trarthus",
         "desc": "技能宝石",
@@ -25002,10 +25446,40 @@
         "class": "gemitem"
     },
     {
+        "label": "特拉特斯之黑暗交易",
+        "value": "Dark_Bargain_of_Trarthus",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
+        "label": "特拉特斯内战",
+        "value": "Civil_War_in_Trarthus",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "特拉特斯圣甲虫",
+        "value": "Trarthan_Scarab",
+        "desc": "地图碎片",
+        "class": ""
+    },
+    {
+        "label": "特拉特斯水汽",
+        "value": "Trarthan_Vapours",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "特拉珊闪光粉",
         "value": "Trarthan_Flashpowder",
         "desc": "赏金猎人工具",
         "class": ""
+    },
+    {
+        "label": "特莱西亚纪念币",
+        "value": "Telesias_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "特里庇希斯之箱",
@@ -25764,9 +26238,21 @@
         "class": "divination"
     },
     {
+        "label": "猛虎魔符",
+        "value": "Tiger_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "猜得挺准",
         "value": "Lucky_Guess",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "猞猁魔符",
+        "value": "Lynx_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -25832,6 +26318,12 @@
     {
         "label": "猴掌魔符",
         "value": "Monkey_Paw_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
+        "label": "猿猴魔符",
+        "value": "Ape_Talisman",
         "desc": "项链",
         "class": ""
     },
@@ -26022,6 +26514,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "珊瑚密林海图",
+        "value": "Coral_Forest_Chart",
+        "desc": "海图",
+        "class": ""
+    },
+    {
         "label": "珊瑚戒指",
         "value": "Coral_Ring",
         "desc": "戒指",
@@ -26034,6 +26532,12 @@
         "class": ""
     },
     {
+        "label": "珊瑚暗礁海图",
+        "value": "Coral_Reef_Chart",
+        "desc": "海图",
+        "class": ""
+    },
+    {
         "label": "珍涅优苏",
         "value": "Jeinei_Yuushu",
         "desc": "怪物",
@@ -26043,6 +26547,12 @@
         "label": "珐琅胸针",
         "value": "Enamel_Brooch",
         "desc": "赏金猎人胸针",
+        "class": ""
+    },
+    {
+        "label": "珠光项链",
+        "value": "Pearlescent_Amulet",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -26128,6 +26638,12 @@
         "value": "Amber_Infusion",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "琪莎拉纪念币",
+        "value": "Kisharas_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "瑕疵之种",
@@ -26458,6 +26974,12 @@
         "value": "Haviri%2C_Vaal_Metalsmith",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "瓦尔雾隐水晶",
+        "value": "Vaal_Enshrouding_Crystal",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "瓦尔魔盾",
@@ -27258,6 +27780,12 @@
         "class": ""
     },
     {
+        "label": "瘟疫异蛛魔符",
+        "value": "Plagued_Arachnid_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "瘫痪",
         "value": "Paralysis",
         "desc": "星团珠宝",
@@ -27486,6 +28014,12 @@
         "class": ""
     },
     {
+        "label": "盐与鳞片",
+        "value": "Salt_and_Scale",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "监工头克劳",
         "value": "Overseer_Krow",
         "desc": "怪物",
@@ -27711,6 +28245,12 @@
         "label": "眩目爪刃",
         "value": "Sparkling_Claw",
         "desc": "爪",
+        "class": ""
+    },
+    {
+        "label": "眼镜蛇魔符",
+        "value": "Cobra_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -28098,6 +28638,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "破碎的卡兰德魔镜",
+        "value": "Broken_Mirror_of_Kalandra",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "破碎的孕育石",
         "value": "Fragmented_Incubator",
         "desc": "孕育石",
@@ -28250,6 +28796,12 @@
     {
         "label": "碎月",
         "value": "Splinter_of_the_Moon",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
+        "label": "碎潮者",
+        "value": "Tidebreaker",
         "desc": "传奇",
         "class": "UniqueItem"
     },
@@ -28536,6 +29088,12 @@
         "class": ""
     },
     {
+        "label": "神圣宗派（辅）",
+        "value": "Communion_Support",
+        "desc": "辅助宝石",
+        "class": "gemitem"
+    },
+    {
         "label": "神圣审判",
         "value": "Divine_Judgement",
         "desc": "天赋",
@@ -28638,6 +29196,12 @@
         "class": "gemitem"
     },
     {
+        "label": "神奇领域",
+        "value": "Remarkable_Realms",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "神威之盾",
         "value": "Divine_Shield",
         "desc": "天赋",
@@ -28728,7 +29292,13 @@
         "class": "UniqueItem"
     },
     {
-        "label": "神秘注入",
+        "label": "神秘潜行者",
+        "value": "Mysterious_Diver",
+        "desc": "佣兵",
+        "class": ""
+    },
+    {
+        "label": "神秘灌注",
         "value": "Mystical_Infusion",
         "desc": "天赋",
         "class": ""
@@ -29152,6 +29722,18 @@
         "value": "Honourhome",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "秃鹫魔符",
+        "value": "Vulture_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
+        "label": "科塔席契约",
+        "value": "Pact_of_KTash",
+        "desc": "技能宝石",
+        "class": "gemitem"
     },
     {
         "label": "科塔拉的调节器",
@@ -29820,6 +30402,12 @@
         "class": ""
     },
     {
+        "label": "简洁邀请",
+        "value": "Succinct_Summons",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "箭丽毒蛙",
         "value": "Dendrobate",
         "desc": "传奇",
@@ -30114,6 +30702,12 @@
         "class": ""
     },
     {
+        "label": "精魂灌注",
+        "value": "Spirit_Infusion",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "素布腰带",
         "value": "Rustic_Sash",
         "desc": "腰带",
@@ -30180,6 +30774,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "索魂钩",
+        "value": "The_Wellhook",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "紧急号令（辅）",
         "value": "Urgent_Orders_Support",
         "desc": "辅助宝石",
@@ -30225,6 +30825,12 @@
         "label": "繁茂之菌潮圣甲虫",
         "value": "Blight_Scarab_of_Blooming",
         "desc": "地图碎片",
+        "class": ""
+    },
+    {
+        "label": "繁重任务",
+        "value": "Taxing_Tasks",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -30471,6 +31077,12 @@
         "label": "结伴之混乱圣甲虫",
         "value": "Anarchy_Scarab_of_Partnership",
         "desc": "地图碎片",
+        "class": ""
+    },
+    {
+        "label": "结合尖塔",
+        "value": "Conjoined_Spire",
+        "desc": "天赋",
         "class": ""
     },
     {
@@ -30780,6 +31392,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "维尔卡血脉",
+        "value": "Velka_Bloodline",
+        "desc": "Bloodline",
+        "class": ""
+    },
+    {
         "label": "维度之制图者圣甲虫",
         "value": "Cartography_Scarab_of_the_Multitude",
         "desc": "地图碎片",
@@ -30948,6 +31566,12 @@
         "class": "item_gem"
     },
     {
+        "label": "缺席战士",
+        "value": "Absent_Warriors",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "缺角帝冠",
         "value": "The_Broken_Crown",
         "desc": "传奇",
@@ -31053,6 +31677,12 @@
         "label": "羁绊",
         "value": "Link",
         "desc": "宝石标签",
+        "class": ""
+    },
+    {
+        "label": "羊人魔符",
+        "value": "Goatman_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -31602,6 +32232,12 @@
         "class": ""
     },
     {
+        "label": "脊柱之握",
+        "value": "Spinesnatch",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "脊裂之影",
         "value": "Spinecrack",
         "desc": "怪物",
@@ -31728,6 +32364,12 @@
         "class": ""
     },
     {
+        "label": "腐化结晶",
+        "value": "Corrupted_Crystals",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "腐化者.凯达弗斯",
         "value": "Kadavrus_the_Defiler",
         "desc": "怪物",
@@ -31786,6 +32428,18 @@
         "value": "The_Rotten_Matriarch",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "腐母之叛",
+        "value": "Rotmothers_Mutiny",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
+        "label": "腐母纪念币",
+        "value": "Rotmothers_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "腐灼热瘟",
@@ -32046,6 +32700,12 @@
         "class": "divination"
     },
     {
+        "label": "至高君临",
+        "value": "Superior_Sovereign",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "至高天堂",
         "value": "Omeyocan",
         "desc": "传奇",
@@ -32253,6 +32913,12 @@
         "label": "良质魔力药剂",
         "value": "Greater_Mana_Flask",
         "desc": "魔力药剂",
+        "class": ""
+    },
+    {
+        "label": "色彩工艺",
+        "value": "Chromatic_Crafting",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -32490,12 +33156,6 @@
         "class": ""
     },
     {
-        "label": "苍白预兆",
-        "value": "Omen_of_Trichromatism",
-        "desc": "可堆叠通货",
-        "class": "item_currency"
-    },
-    {
         "label": "苍穹之闪电通道",
         "value": "Lightning_Conduit_of_the_Heavens",
         "desc": "技能宝石",
@@ -32625,6 +33285,12 @@
         "label": "苦痛劫掠",
         "value": "Defy_Pain",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "苦痛回响",
+        "value": "Excruciating_Echoes",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -32770,6 +33436,18 @@
         "value": "The_Heroic_Shot",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "英勇气概",
+        "value": "Valour",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "英勇试炼",
+        "value": "Gallant_Grinding_Goals",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "英名冠世",
@@ -33000,6 +33678,12 @@
         "class": "divination"
     },
     {
+        "label": "莉西娅契约",
+        "value": "Pact_of_Lycia",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
         "label": "莉西娅的梦魇",
         "value": "Nightmare_of_Lycia",
         "desc": "怪物",
@@ -33188,6 +33872,12 @@
     {
         "label": "落刃风暴",
         "value": "Swordstorm",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
+        "label": "落锤之神圣横扫",
+        "value": "Holy_Sweep_of_Hammerfalls",
         "desc": "技能宝石",
         "class": "gemitem"
     },
@@ -33486,6 +34176,12 @@
         "class": ""
     },
     {
+        "label": "虚化",
+        "value": "Intangibility",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "虚弱之握",
         "value": "Enervating_Grasp",
         "desc": "技能宝石",
@@ -33609,6 +34305,12 @@
         "label": "虚空守卫：牛头人",
         "value": "Guardian_of_the_Minotaur",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "虚空强化",
+        "value": "Ethereal_Enhancements",
+        "desc": "成就",
         "class": ""
     },
     {
@@ -33870,10 +34572,22 @@
         "class": "item_currency"
     },
     {
+        "label": "蜘蛛蟹魔符",
+        "value": "Spider_Crab_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "蜡封束衣",
         "value": "Waxed_Garb",
         "desc": "胸甲",
         "class": ""
+    },
+    {
+        "label": "蜡黄之魂",
+        "value": "Waxen_Soul",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "蜿蜒之火山裂缝",
@@ -33904,6 +34618,12 @@
         "value": "Melding",
         "desc": "天赋",
         "class": ""
+    },
+    {
+        "label": "螺旋之神圣之锤",
+        "value": "Holy_Hammers_of_Spirals",
+        "desc": "技能宝石",
+        "class": "gemitem"
     },
     {
         "label": "螺旋之裂魂术",
@@ -33940,6 +34660,12 @@
         "value": "Mother_of_the_Hive",
         "desc": "怪物",
         "class": ""
+    },
+    {
+        "label": "蟹群之召",
+        "value": "The_Crustaceans_Call",
+        "desc": "传奇",
+        "class": "UniqueItem"
     },
     {
         "label": "蟾蜍之不灭余烬",
@@ -34770,6 +35496,12 @@
         "class": ""
     },
     {
+        "label": "西亚克桑霸权",
+        "value": "Cyaxan_Supremacy",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "西奥妮的野心",
         "value": "Siones_Ambition",
         "desc": "天赋",
@@ -35220,6 +35952,12 @@
         "class": ""
     },
     {
+        "label": "贝达特契约",
+        "value": "Pact_of_Beidat",
+        "desc": "技能宝石",
+        "class": "gemitem"
+    },
+    {
         "label": "贝雷克的冰与火之歌",
         "value": "Bereks_Pass",
         "desc": "传奇",
@@ -35376,6 +36114,12 @@
         "class": "item_currency"
     },
     {
+        "label": "贪婪诸神",
+        "value": "Possessive_Pantheons",
+        "desc": "成就",
+        "class": ""
+    },
+    {
         "label": "贪婪部落",
         "value": "Ravenous_Horde",
         "desc": "天赋",
@@ -35436,10 +36180,28 @@
         "class": ""
     },
     {
+        "label": "贵族之血",
+        "value": "Noble_Blood",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "贵族战爪",
         "value": "Noble_Claw",
         "desc": "爪",
         "class": ""
+    },
+    {
+        "label": "贵族的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Scion",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
+        "label": "贵族纪念币",
+        "value": "The_Genteels_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "贵族细剑",
@@ -36378,15 +37140,15 @@
         "class": ""
     },
     {
-        "label": "进化中的虫群",
-        "value": "Evolving_Hives",
-        "desc": "天赋",
-        "class": ""
-    },
-    {
         "label": "进化之支配圣甲虫",
         "value": "Domination_Scarab_of_Evolution",
         "desc": "地图碎片",
+        "class": ""
+    },
+    {
+        "label": "进化虫巢",
+        "value": "Evolving_Hives",
+        "desc": "天赋",
         "class": ""
     },
     {
@@ -36490,6 +37252,12 @@
         "value": "Expeditions_End",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "远洋航行",
+        "value": "Nautical_Navigation",
+        "desc": "成就",
+        "class": ""
     },
     {
         "label": "远祖之颅",
@@ -36658,6 +37426,12 @@
         "value": "Mark_of_the_Doubting_Knight",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "迷踪",
+        "value": "Phasing",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "迷踪孕育石",
@@ -36870,6 +37644,12 @@
         "class": "gemitem"
     },
     {
+        "label": "逆转预言",
+        "value": "Altered_Prophecy",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "选择之仪式圣甲虫",
         "value": "Ritual_Scarab_of_Selectiveness",
         "desc": "地图碎片",
@@ -37002,12 +37782,6 @@
         "class": ""
     },
     {
-        "label": "遮蔽星盘",
-        "value": "Deceptive_Astrolabe",
-        "desc": "可堆叠通货",
-        "class": "item_currency"
-    },
-    {
         "label": "邃狱之深渊圣甲虫",
         "value": "Abyss_Scarab_of_the_Consort",
         "desc": "地图碎片",
@@ -37120,6 +37894,12 @@
         "value": "Shield_Crush_of_the_Chieftain",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "酋长魔符",
+        "value": "Chieftain_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "酒醉者特尔瓦",
@@ -37380,9 +38160,21 @@
         "class": ""
     },
     {
+        "label": "野蛮人的禁忌文身",
+        "value": "Forbidden_Tattoo_of_the_Marauder",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "野蛮嚎叫",
         "value": "Rattling_Bellow",
         "desc": "星团珠宝",
+        "class": ""
+    },
+    {
+        "label": "野蛮巨蟹魔符",
+        "value": "Savage_Crab_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -37431,6 +38223,18 @@
         "label": "金柄之斧",
         "value": "Gilded_Axe",
         "desc": "双手斧",
+        "class": ""
+    },
+    {
+        "label": "金沙海床海图",
+        "value": "Sandy_Seabed_Chart",
+        "desc": "海图",
+        "class": ""
+    },
+    {
+        "label": "金牛魔符",
+        "value": "Taurus_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -37515,6 +38319,12 @@
         "label": "金色戴冠神像",
         "value": "Crested_Golden_Idol",
         "desc": "赏金目标",
+        "class": ""
+    },
+    {
+        "label": "金色提灯",
+        "value": "Golden_Lanterns",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -38874,6 +39684,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "阿扎丁霸权",
+        "value": "Azadi_Supremacy",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "阿扎迪纹章",
         "value": "Azadi_Crest",
         "desc": "传奇",
@@ -38974,6 +39790,12 @@
         "value": "Added_Lightning_Damage_Support",
         "desc": "辅助宝石",
         "class": "item_gem"
+    },
+    {
+        "label": "附壳巨蟹魔符",
+        "value": "Shield_Crab_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "附身之壳",
@@ -39124,12 +39946,6 @@
         "value": "Tattoo_of_the_Rongokurai_Brute",
         "desc": "可堆叠通货",
         "class": "item_currency"
-    },
-    {
-        "label": "随从契约（辅）",
-        "value": "Communion_Support",
-        "desc": "辅助宝石",
-        "class": "gemitem"
     },
     {
         "label": "隐匿之刃",
@@ -39591,6 +40407,42 @@
         "label": "雷默科，太阳之光",
         "value": "Ramako%2C_Suns_Light",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "雾隐头盔",
+        "value": "Enshrouded_Helmet",
+        "desc": "雾隐物品",
+        "class": ""
+    },
+    {
+        "label": "雾隐手套",
+        "value": "Enshrouded_Gloves",
+        "desc": "雾隐物品",
+        "class": ""
+    },
+    {
+        "label": "雾隐物品",
+        "value": "Enshrouded_Item",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "雾隐皮靴",
+        "value": "Enshrouded_Boots",
+        "desc": "雾隐物品",
+        "class": ""
+    },
+    {
+        "label": "雾隐盾牌",
+        "value": "Enshrouded_Shield",
+        "desc": "雾隐物品",
+        "class": ""
+    },
+    {
+        "label": "雾隐胸甲",
+        "value": "Enshrouded_Body_Armour",
+        "desc": "雾隐物品",
         "class": ""
     },
     {
@@ -40128,6 +40980,12 @@
         "class": ""
     },
     {
+        "label": "风暴之血",
+        "value": "Stormblood",
+        "desc": "传奇",
+        "class": "UniqueItem"
+    },
+    {
         "label": "风暴之诱",
         "value": "Tempt_the_Storm",
         "desc": "星团珠宝",
@@ -40380,6 +41238,12 @@
         "class": ""
     },
     {
+        "label": "食腐虫后魔符",
+        "value": "Carrion_Queen_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "食蚜",
         "value": "Scaeva",
         "desc": "传奇",
@@ -40516,6 +41380,12 @@
         "value": "Maraketh_Bow",
         "desc": "弓",
         "class": ""
+    },
+    {
+        "label": "马拉克斯雾隐水晶",
+        "value": "Maraketh_Enshrouding_Crystal",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
     },
     {
         "label": "马拉凯之记",
@@ -40920,6 +41790,12 @@
         "class": "gemitem"
     },
     {
+        "label": "高额赌注",
+        "value": "High_Stakes",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "鬣犬之牙",
         "value": "Al_Dhih",
         "desc": "传奇",
@@ -40930,6 +41806,12 @@
         "value": "Oni-Goroshi",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "鬼火长剑",
+        "value": "Ghostflame_Blade",
+        "desc": "单手剑",
+        "class": ""
     },
     {
         "label": "鬼灵之仪式圣甲虫",
@@ -41562,6 +42444,12 @@
         "class": ""
     },
     {
+        "label": "黄金荣耀",
+        "value": "Golden_Glory",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "黄金药剂",
         "value": "Gold_Flask",
         "desc": "功能药剂",
@@ -41595,6 +42483,12 @@
         "label": "黑寡妇",
         "value": "Hybrid_Widow",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "黑寡妇魔符",
+        "value": "Black_Widow_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {
@@ -41650,6 +42544,12 @@
         "value": "Misery_in_Darkness",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "黑暗交易",
+        "value": "Dark_Bargain",
+        "desc": "技能宝石",
+        "class": "gemitem"
     },
     {
         "label": "黑暗余烬·索伏",
@@ -41949,6 +42849,12 @@
         "label": "龙蜥之后",
         "value": "Clutch_Queen",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "龙蜥魔符",
+        "value": "Chimeral_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {

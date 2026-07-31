@@ -12,6 +12,18 @@
         "class": ""
     },
     {
+        "label": "3.29.0b Patch Notes",
+        "value": "Version_3.29.0b",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "3.29.1 Patch Notes",
+        "value": "Version_3.29.1",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "A Chilling Wind",
         "value": "A_Chilling_Wind",
         "desc": "Divination Cards",
@@ -52,12 +64,6 @@
         "value": "A_Mothers_Parting_Gift",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "A Noble Quest",
-        "value": "A_Noble_Quest",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "A Note in the Wind",
@@ -150,12 +156,6 @@
         "class": "item_currency"
     },
     {
-        "label": "Absent Warriors",
-        "value": "Absent_Warriors",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Absolution",
         "value": "Absolution",
         "desc": "Skill Gems",
@@ -231,12 +231,6 @@
         "label": "Abyss league",
         "value": "Abyss_league",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Abyssal Army",
-        "value": "Abyssal_Army",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -465,12 +459,6 @@
         "label": "Adaptation",
         "value": "Adaptation",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Adaptive Reaction",
-        "value": "Adaptive_Reaction",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -822,6 +810,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "Albino Crab Claw",
+        "value": "Albino_Crab_Claw",
+        "desc": "Stackable Currency",
+        "class": "item_currency"
+    },
+    {
         "label": "Albino Rhoa Feather",
         "value": "Albino_Rhoa_Feather",
         "desc": "Stackable Currency",
@@ -874,12 +868,6 @@
         "value": "Alivias_Grace",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "All That Glitters",
-        "value": "All_That_Glitters",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Allelopathy",
@@ -990,12 +978,6 @@
         "class": "divination"
     },
     {
-        "label": "Altered Prophecy",
-        "value": "Altered_Prophecy",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Altered Synthete",
         "value": "Altered_Synthete",
         "desc": "Monster",
@@ -1026,6 +1008,12 @@
         "class": ""
     },
     {
+        "label": "Amanamu Faction",
+        "value": "Amanamu_Faction",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "Amanamu's Gaze",
         "value": "Amanamus_Gaze",
         "desc": "Unique",
@@ -1047,12 +1035,6 @@
         "label": "Amber Amulet",
         "value": "Amber_Amulet",
         "desc": "Amulets",
-        "class": ""
-    },
-    {
-        "label": "Amber Infusion",
-        "value": "Amber_Infusion",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -1185,18 +1167,6 @@
         "label": "Amplification Rod",
         "value": "Amplification_Rod",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Amplified Artefacts",
-        "value": "Amplified_Artefacts",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Amplified Energies",
-        "value": "Amplified_Energies",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -1398,12 +1368,6 @@
         "class": ""
     },
     {
-        "label": "Ancient Decay",
-        "value": "Ancient_Decay",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Ancient Gauntlets",
         "value": "Ancient_Gauntlets",
         "desc": "Gloves",
@@ -1485,12 +1449,6 @@
         "label": "Ancient Wombgift",
         "value": "Ancient_Wombgift",
         "desc": "Wombgifts",
-        "class": ""
-    },
-    {
-        "label": "Ancient Writings",
-        "value": "Ancient_Writings",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -1581,12 +1539,6 @@
         "label": "Anomaly Research Lab",
         "value": "Anomaly_Research_Lab",
         "desc": "Incursion Room",
-        "class": ""
-    },
-    {
-        "label": "Answered Appeals",
-        "value": "Answered_Appeals",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -2160,12 +2112,6 @@
         "class": ""
     },
     {
-        "label": "Artefacts of the Vaal",
-        "value": "Artefacts_of_the_Vaal",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Arterial Mesh",
         "value": "Arterial_Mesh",
         "desc": "Passive",
@@ -2451,6 +2397,12 @@
         "label": "Assassination Style",
         "value": "Assassination_Style",
         "desc": "Passive",
+        "class": ""
+    },
+    {
+        "label": "Assembled Eye Jewel",
+        "value": "Assembled_Eye_Jewel",
+        "desc": "Abyss Jewels",
         "class": ""
     },
     {
@@ -3048,12 +3000,6 @@
         "class": "gemitem"
     },
     {
-        "label": "Awakened Depths",
-        "value": "Awakened_Depths",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Awakened Elemental Damage With Attacks Support",
         "value": "Awakened_Elemental_Damage_with_Attacks_Support",
         "desc": "Wiki",
@@ -3264,12 +3210,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Azadi Supremacy",
-        "value": "Azadi_Supremacy",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Azure Oil",
         "value": "Azure_Oil",
         "desc": "Stackable Currency",
@@ -3302,12 +3242,6 @@
     {
         "label": "Backstabbing",
         "value": "Backstabbing",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Backup Cache",
-        "value": "Backup_Cache",
         "desc": "Passive",
         "class": ""
     },
@@ -3465,12 +3399,6 @@
         "label": "Banquet Hall",
         "value": "Banquet_Hall",
         "desc": "Incursion Room",
-        "class": ""
-    },
-    {
-        "label": "Baptised by Fire",
-        "value": "Baptised_by_Fire",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -4014,12 +3942,6 @@
         "class": ""
     },
     {
-        "label": "Big Game",
-        "value": "Big_Game",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Bijoux",
         "value": "Bijoux",
         "desc": "Divination Cards",
@@ -4065,12 +3987,6 @@
         "label": "Bismuth Flask",
         "value": "Bismuth_Flask",
         "desc": "Utility Flasks",
-        "class": ""
-    },
-    {
-        "label": "Bismuth Infusion",
-        "value": "Bismuth_Infusion",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -4644,12 +4560,6 @@
         "class": ""
     },
     {
-        "label": "Blightspawn",
-        "value": "Blightspawn",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Blightwell",
         "value": "Blightwell",
         "desc": "Unique",
@@ -5210,7 +5120,7 @@
     {
         "label": "Bone Feeders",
         "value": "Bone_Feeders",
-        "desc": "Passive",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -5412,12 +5322,6 @@
         "class": ""
     },
     {
-        "label": "Bountiful Harvest",
-        "value": "Bountiful_Harvest",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Bow",
         "value": "Bow",
         "desc": "Gem Tags",
@@ -5511,12 +5415,6 @@
         "label": "Bravalo",
         "value": "Bravalo",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Brave The Tower",
-        "value": "Brave_The_Tower",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -5658,12 +5556,6 @@
         "class": ""
     },
     {
-        "label": "Bribery",
-        "value": "Bribery",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Brightbeak",
         "value": "Brightbeak",
         "desc": "Unique",
@@ -5793,12 +5685,6 @@
         "label": "Broadside",
         "value": "Broadside",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Broken Border",
-        "value": "Broken_Border",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -5994,12 +5880,6 @@
         "class": ""
     },
     {
-        "label": "Bumper Crop",
-        "value": "Bumper_Crop",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Bundle of Woe",
         "value": "Bundle_of_Woe",
         "desc": "Monster",
@@ -6028,12 +5908,6 @@
         "value": "Burial_Medallion",
         "desc": "Stackable Currency",
         "class": "item_currency"
-    },
-    {
-        "label": "Buried Knowledge",
-        "value": "Buried_Knowledge",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Buried Treasure",
@@ -6214,12 +6088,6 @@
         "value": "Call_of_the_Brotherhood",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Call of the Grove",
-        "value": "Call_of_the_Grove",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Call of the Void",
@@ -6552,12 +6420,6 @@
         "class": ""
     },
     {
-        "label": "Casing the Joint",
-        "value": "Casing_the_Joint",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Cassia's Pride",
         "value": "Cassias_Pride",
         "desc": "Unique",
@@ -6874,12 +6736,6 @@
         "value": "Chain_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Chain of Command",
-        "value": "Chain_of_Command",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Chain of Endurance",
@@ -7344,12 +7200,6 @@
         "class": ""
     },
     {
-        "label": "Chittering Champions",
-        "value": "Chittering_Champions",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Chitus' Apex",
         "value": "Chitus_Apex",
         "desc": "Unique",
@@ -7494,12 +7344,6 @@
         "class": ""
     },
     {
-        "label": "Civil War in Trarthus",
-        "value": "Civil_War_in_Trarthus",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Clarity",
         "value": "Clarity",
         "desc": "Skill Gems",
@@ -7526,12 +7370,6 @@
     {
         "label": "Claw Mastery",
         "value": "Claw_Mastery",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Clawed Open",
-        "value": "Clawed_Open",
         "desc": "Passive",
         "class": ""
     },
@@ -8088,21 +7926,9 @@
         "class": "item_currency"
     },
     {
-        "label": "Compulsive Hoarder",
-        "value": "Compulsive_Hoarder",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Compulsor Octavia Sparkfist",
         "value": "Compulsor_Octavia_Sparkfist",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Concealed Logistics",
-        "value": "Concealed_Logistics",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -8226,18 +8052,6 @@
         "class": ""
     },
     {
-        "label": "Conquer The Stones",
-        "value": "Conquer_The_Stones",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Conquered Conquerors",
-        "value": "Conquered_Conquerors",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Conqueror",
         "value": "Conqueror",
         "desc": "Wiki",
@@ -8325,12 +8139,6 @@
         "label": "Conservation of Energy",
         "value": "Conservation_of_Energy",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Constant Battle",
-        "value": "Constant_Battle",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -8427,12 +8235,6 @@
         "label": "Content Update 3.17.0",
         "value": "Version_3.17.0",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Contested Development",
-        "value": "Contested_Development",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -8772,12 +8574,6 @@
         "class": ""
     },
     {
-        "label": "Corrupted Gaze",
-        "value": "Corrupted_Gaze",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Corrupted Soul",
         "value": "Corrupted_Soul",
         "desc": "Timeless Jewel",
@@ -9042,6 +8838,12 @@
         "class": ""
     },
     {
+        "label": "Craicic Talisman",
+        "value": "Craicic_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Crave the Slaughter",
         "value": "Crave_the_Slaughter",
         "desc": "Passive",
@@ -9150,12 +8952,6 @@
         "class": ""
     },
     {
-        "label": "Crimson Infusion",
-        "value": "Crimson_Infusion",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Crimson Jewel",
         "value": "Crimson_Jewel",
         "desc": "Jewels",
@@ -9207,6 +9003,12 @@
         "label": "Critical strike",
         "value": "Critical_strike",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Croaker Talisman",
+        "value": "Croaker_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -9438,18 +9240,6 @@
         "class": ""
     },
     {
-        "label": "Crystal Lattice",
-        "value": "Crystal_Lattice",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Crystal Resonance",
-        "value": "Crystal_Resonance",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Crystal Sceptre",
         "value": "Crystal_Sceptre",
         "desc": "Sceptres",
@@ -9478,12 +9268,6 @@
         "value": "Crystalfall_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Crystalline Carapaces",
-        "value": "Crystalline_Carapaces",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Crystallised Omniscience",
@@ -9675,12 +9459,6 @@
         "label": "Cutthroat's Garb",
         "value": "Cutthroats_Garb",
         "desc": "Body Armours",
-        "class": ""
-    },
-    {
-        "label": "Cyaxan Supremacy",
-        "value": "Cyaxan_Supremacy",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -9978,12 +9756,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Darkness Rising",
-        "value": "Darkness_Rising",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Darkray Vectors",
         "value": "Darkray_Vectors",
         "desc": "Unique",
@@ -10102,12 +9874,6 @@
         "value": "Deadly_Joy",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "Deadly Prey",
-        "value": "Deadly_Prey",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Deadly Repartee",
@@ -10644,12 +10410,6 @@
         "class": ""
     },
     {
-        "label": "Delusions of Persecution",
-        "value": "Delusions_of_Persecution",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Delve Stackable Socketable Currency",
         "value": "Delve_Stackable_Socketable_Currency",
         "desc": "Item Classes",
@@ -10788,12 +10548,6 @@
         "class": ""
     },
     {
-        "label": "Demonic Power",
-        "value": "Demonic_Power",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Dendrobate",
         "value": "Dendrobate",
         "desc": "Unique",
@@ -10826,12 +10580,6 @@
     {
         "label": "Dervish",
         "value": "Dervish",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Descent Into Madness",
-        "value": "Descent_Into_Madness",
         "desc": "Passive",
         "class": ""
     },
@@ -11004,12 +10752,6 @@
         "class": ""
     },
     {
-        "label": "Devoted Carapaces",
-        "value": "Devoted_Carapaces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Devoted Soul",
         "value": "Devoted_Soul",
         "desc": "Passive",
@@ -11128,12 +10870,6 @@
         "value": "Dimensional_Barrier",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Dimensional Foothold",
-        "value": "Dimensional_Foothold",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Dire Pelt",
@@ -11301,12 +11037,6 @@
         "label": "Distilled Perfection",
         "value": "Distilled_Perfection",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Distinguished Demolitionist",
-        "value": "Distinguished_Demolitionist",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -11796,12 +11526,6 @@
         "class": ""
     },
     {
-        "label": "Doubling Season",
-        "value": "Doubling_Season",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Draconarius Wilhelm Flamebrand",
         "value": "Draconarius_Wilhelm_Flamebrand",
         "desc": "Monster",
@@ -11856,9 +11580,9 @@
         "class": "divination"
     },
     {
-        "label": "Drawn to Power",
-        "value": "Drawn_to_Power",
-        "desc": "Passive",
+        "label": "Draugurflame",
+        "value": "Draugurflame",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -12354,18 +12078,6 @@
         "class": ""
     },
     {
-        "label": "Educated Upbringing",
-        "value": "Educated_Upbringing",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Education Cuts",
-        "value": "Education_Cuts",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Eelskin Boots",
         "value": "Eelskin_Boots",
         "desc": "Boots",
@@ -12399,12 +12111,6 @@
         "label": "Effective Chance",
         "value": "Effective_Chance",
         "desc": "Keywords",
-        "class": ""
-    },
-    {
-        "label": "Effective Leadership",
-        "value": "Effective_Leadership",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -12786,12 +12492,6 @@
         "class": ""
     },
     {
-        "label": "Emblematic",
-        "value": "Emblematic",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Embroidered Gloves",
         "value": "Embroidered_Gloves",
         "desc": "Gloves",
@@ -13047,12 +12747,6 @@
         "label": "Enduring Ward",
         "value": "Enduring_Ward",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Enemy at the Gates",
-        "value": "Enemy_at_the_Gates",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -13341,12 +13035,6 @@
         "label": "Ephij, Crackling Sky",
         "value": "Ephij%2C_Crackling_Sky",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Epidemiology",
-        "value": "Epidemiology",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -13656,12 +13344,6 @@
         "class": ""
     },
     {
-        "label": "Etched by Acid",
-        "value": "Etched_by_Acid",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Etched in Blood",
         "value": "Etched_in_Blood",
         "desc": "Divination Cards",
@@ -13725,12 +13407,6 @@
         "label": "Eternal Fortitude",
         "value": "Eternal_Fortitude",
         "desc": "Timeless Jewel",
-        "class": ""
-    },
-    {
-        "label": "Eternal Hunt",
-        "value": "Eternal_Hunt",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -13858,12 +13534,6 @@
         "value": "Eviscerate",
         "desc": "Skill Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Evolving Hives",
-        "value": "Evolving_Hives",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Ewar's Mirage",
@@ -13995,12 +13665,6 @@
         "label": "Exilecon 2023",
         "value": "exilecon",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Exiled Will",
-        "value": "Exiled_Will",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -14151,12 +13815,6 @@
         "label": "Exploit Weakness",
         "value": "Exploit_Weakness",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Explorative Carapaces",
-        "value": "Explorative_Carapaces",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -14436,18 +14094,6 @@
         "class": ""
     },
     {
-        "label": "Face Off",
-        "value": "Face_Off",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Face The Ultimatum",
-        "value": "Face_The_Ultimatum",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Facebreaker",
         "value": "Facebreaker",
         "desc": "Unique",
@@ -14486,12 +14132,6 @@
     {
         "label": "Faith and Steel",
         "value": "Faith_and_Steel",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Faith in Arms",
-        "value": "Faith_in_Arms",
         "desc": "Passive",
         "class": ""
     },
@@ -14778,12 +14418,6 @@
         "class": ""
     },
     {
-        "label": "Fecund Colony",
-        "value": "Fecund_Colony",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Feed the Fury",
         "value": "Feed_the_Fury",
         "desc": "Cluster Jewel",
@@ -14835,6 +14469,12 @@
         "label": "Fenumal Lure",
         "value": "Fenumal_Lure",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "Fenumal Talisman",
+        "value": "Fenumal_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -14967,12 +14607,6 @@
         "label": "Fiend Dagger",
         "value": "Fiend_Dagger",
         "desc": "Rune Daggers",
-        "class": ""
-    },
-    {
-        "label": "Fiendish Opulence",
-        "value": "Fiendish_Opulence",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -15540,12 +15174,6 @@
         "class": ""
     },
     {
-        "label": "Flexible Dogma",
-        "value": "Flexible_Dogma",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Flexible Sentry",
         "value": "Flexible_Sentry",
         "desc": "Cluster Jewel",
@@ -15651,12 +15279,6 @@
         "label": "Footman Sword",
         "value": "Footman_Sword",
         "desc": "Two Hand Swords",
-        "class": ""
-    },
-    {
-        "label": "For Love of the Queen",
-        "value": "For_Love_of_the_Queen",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -15894,12 +15516,6 @@
         "class": ""
     },
     {
-        "label": "Fortified Dominance",
-        "value": "Fortified_Dominance",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Fortified Legion",
         "value": "Fortified_Legion",
         "desc": "Wiki",
@@ -15940,12 +15556,6 @@
         "value": "Fortress_Covenant",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Fortune's Favour",
-        "value": "Fortunes_Favour",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Fossil",
@@ -16218,12 +15828,6 @@
         "class": ""
     },
     {
-        "label": "Frantic Mining",
-        "value": "Frantic_Mining",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Freedom of Movement",
         "value": "Freedom_of_Movement",
         "desc": "Passive",
@@ -16293,12 +15897,6 @@
         "label": "Friedrich Tarollo, Slave Merchant",
         "value": "Friedrich_Tarollo%2C_Slave_Merchant",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Friends in High Places",
-        "value": "Friends_in_High_Places",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -16608,21 +16206,9 @@
         "class": "item_currency"
     },
     {
-        "label": "Fungal Bloom",
-        "value": "Fungal_Bloom",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Fungal Ground",
         "value": "Fungal_ground",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Fungal Horizons",
-        "value": "Fungal_Horizons",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -17970,12 +17556,6 @@
         "class": ""
     },
     {
-        "label": "Grasp the Past",
-        "value": "Grasp_the_Past",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Grasping Astrolabe",
         "value": "Grasping_Astrolabe",
         "desc": "Stackable Currency",
@@ -18339,12 +17919,6 @@
         "label": "Guard skill",
         "value": "Guard_skill",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Guarded Hoards",
-        "value": "Guarded_Hoards",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -18786,12 +18360,6 @@
         "class": ""
     },
     {
-        "label": "Harrowing Carapaces",
-        "value": "Harrowing_Carapaces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Harrowing Throng Support",
         "value": "Harrowing_Throng_Support",
         "desc": "Support Gems",
@@ -19023,12 +18591,6 @@
         "label": "Heart of the Gargoyle",
         "value": "Heart_of_the_Gargoyle",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Heart of the Grove",
-        "value": "Heart_of_the_Grove",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -19437,12 +18999,6 @@
         "label": "High Lithomancer",
         "value": "High_Lithomancer",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "High Stakes",
-        "value": "High_Stakes",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -19920,12 +19476,6 @@
         "class": ""
     },
     {
-        "label": "Hunt for Answers",
-        "value": "Hunt_for_Answers",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Hunter Hood",
         "value": "Hunter_Hood",
         "desc": "Helmets",
@@ -20226,12 +19776,6 @@
         "class": ""
     },
     {
-        "label": "Imagined Pursuits",
-        "value": "Imagined_Pursuits",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Imbalanced Guard",
         "value": "Imbalanced_Guard",
         "desc": "Passive",
@@ -20283,12 +19827,6 @@
         "label": "Immortal Syndicate",
         "value": "Immortal_Syndicate",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Immune Response",
-        "value": "Immune_Response",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -21300,12 +20838,6 @@
         "class": ""
     },
     {
-        "label": "Inspired Darkness",
-        "value": "Inspired_Darkness",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Inspired Learning",
         "value": "Inspired_Learning",
         "desc": "Unique",
@@ -21465,12 +20997,6 @@
         "label": "Invari, The Bloodshaper",
         "value": "Invari%2C_The_Bloodshaper",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Invasive Adversaries",
-        "value": "Invasive_Adversaries",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -22014,12 +21540,6 @@
         "class": ""
     },
     {
-        "label": "Just in Time!",
-        "value": "Just_in_Time",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Justicar Casticus",
         "value": "Justicar_Casticus",
         "desc": "Monster",
@@ -22269,12 +21789,6 @@
         "label": "Keepers of the Flame",
         "value": "Keepers_league",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Keitan Supremacy",
-        "value": "Keitan_Supremacy",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -22575,6 +22089,12 @@
         "label": "Kuduku, the False God",
         "value": "Kuduku%2C_the_False_God",
         "desc": "Monster",
+        "class": ""
+    },
+    {
+        "label": "Kurgal Faction",
+        "value": "Kurgal_Faction",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23154,12 +22674,6 @@
         "class": "gemitem"
     },
     {
-        "label": "Lethal Extraction",
-        "value": "Lethal_Extraction",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Lethal Pride",
         "value": "Lethal_Pride",
         "desc": "Unique",
@@ -23658,12 +23172,6 @@
         "class": ""
     },
     {
-        "label": "Logistical Support",
-        "value": "Logistical_Support",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Lokan, The Deceiver",
         "value": "Lokan%2C_The_Deceiver",
         "desc": "Monster",
@@ -23727,12 +23235,6 @@
         "label": "Longtooth Talisman",
         "value": "Longtooth_Talisman",
         "desc": "Amulets",
-        "class": ""
-    },
-    {
-        "label": "Loot and Pillage",
-        "value": "Loot_and_Pillage",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -23812,12 +23314,6 @@
         "value": "Lost_Worlds",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "Lost in Transit",
-        "value": "Lost_in_Transit",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Love Through Ice",
@@ -23902,12 +23398,6 @@
         "value": "Lucky_Deck",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "Lucky Guess",
-        "value": "Lucky_Guess",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Luminary",
@@ -24810,12 +24300,6 @@
         "class": ""
     },
     {
-        "label": "Massing Forces",
-        "value": "Massing_Forces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Master Alchemist",
         "value": "Master_Alchemist",
         "desc": "Passive",
@@ -25506,12 +24990,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Mighty Hunter",
-        "value": "Mighty_Hunter",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Militant Faith",
         "value": "Militant_Faith",
         "desc": "Unique",
@@ -25590,22 +25068,10 @@
         "class": "gemitem"
     },
     {
-        "label": "Miner's Strike",
-        "value": "Miners_Strike",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Ming's Heart",
         "value": "Mings_Heart",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Mining Byproducts",
-        "value": "Mining_Byproducts",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Minion",
@@ -25648,12 +25114,6 @@
         "value": "Minion_Speed_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Minor Fiefdoms",
-        "value": "Minor_Fiefdoms",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Minor Idol",
@@ -25914,12 +25374,6 @@
         "class": ""
     },
     {
-        "label": "Monumental",
-        "value": "Monumental",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Moon Staff",
         "value": "Moon_Staff",
         "desc": "Staves",
@@ -26058,12 +25512,6 @@
         "class": ""
     },
     {
-        "label": "Mounting Modifiers",
-        "value": "Mounting_Modifiers",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Movement",
         "value": "Movement",
         "desc": "Gem Tags",
@@ -26092,12 +25540,6 @@
         "value": "Multiple_Traps_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Multiplying Modifiers",
-        "value": "Multiplying_Modifiers",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Multishot",
@@ -26748,12 +26190,6 @@
         "class": ""
     },
     {
-        "label": "No Honour Among Thieves",
-        "value": "No_Honour_Among_Thieves",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "No Traces",
         "value": "No_Traces",
         "desc": "Divination Cards",
@@ -27012,21 +26448,9 @@
         "class": ""
     },
     {
-        "label": "Obsessed with Vengeance",
-        "value": "Obsessed_with_Vengeance",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Obsidian Sharpening Stone",
         "value": "Obsidian_Sharpening_Stone",
         "desc": "Heist Gear",
-        "class": ""
-    },
-    {
-        "label": "Occult Devotion",
-        "value": "Occult_Devotion",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -27057,6 +26481,12 @@
         "label": "Ochre Sceptre",
         "value": "Ochre_Sceptre",
         "desc": "Sceptres",
+        "class": ""
+    },
+    {
+        "label": "Octopus Talisman",
+        "value": "Octopus_Talisman",
+        "desc": "Amulets",
         "class": ""
     },
     {
@@ -27618,12 +27048,6 @@
         "class": ""
     },
     {
-        "label": "Orichalcum Infusion",
-        "value": "Orichalcum_Infusion",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Original Sin",
         "value": "Original_Sin",
         "desc": "Unique",
@@ -27756,12 +27180,6 @@
         "class": ""
     },
     {
-        "label": "Outcasted Carapaces",
-        "value": "Outcasted_Carapaces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Outfoxed",
         "value": "Outfoxed",
         "desc": "Divination Cards",
@@ -27813,12 +27231,6 @@
         "label": "Overkill damage",
         "value": "Overkill_damage",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Overloaded Circuits",
-        "value": "Overloaded_Circuits",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -27892,12 +27304,6 @@
         "value": "Pacifism_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Packed with Energy",
-        "value": "Packed_with_Energy",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Pact",
@@ -28038,12 +27444,6 @@
         "class": ""
     },
     {
-        "label": "Pale Clarion",
-        "value": "Pale_Clarion",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Panquetzaliztli",
         "value": "Panquetzaliztli",
         "desc": "Wiki",
@@ -28077,18 +27477,6 @@
         "label": "Paralysis",
         "value": "Paralysis",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Paranoid Fixation",
-        "value": "Paranoid_Fixation",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Paranormal Meeting",
-        "value": "Paranormal_Meeting",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -28227,12 +27615,6 @@
         "label": "Pathfinder (Ascendant passive)",
         "value": "Pathfinder",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Pathological",
-        "value": "Pathological",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -28884,18 +28266,6 @@
         "class": ""
     },
     {
-        "label": "Pillage and Plunder",
-        "value": "Pillage_and_Plunder",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Pillaged Treasures",
-        "value": "Pillaged_Treasures",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Pillar of the Caged God",
         "value": "Pillar_of_the_Caged_God",
         "desc": "Unique",
@@ -29364,12 +28734,6 @@
         "class": ""
     },
     {
-        "label": "Possessed Carapaces",
-        "value": "Possessed_Carapaces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Possessive Pantheons",
         "value": "Possessive_Pantheons",
         "desc": "Achievements",
@@ -29694,12 +29058,6 @@
         "class": ""
     },
     {
-        "label": "Primal Drought",
-        "value": "Primal_Drought",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Primal Incubator",
         "value": "Primal_Incubator",
         "desc": "Incubators",
@@ -29994,12 +29352,6 @@
         "class": ""
     },
     {
-        "label": "Profitable Prayers",
-        "value": "Profitable_Prayers",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Progenesis",
         "value": "Progenesis",
         "desc": "Unique",
@@ -30014,12 +29366,6 @@
     {
         "label": "Projectile Mastery",
         "value": "Projectile_Mastery",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Prolific Essence",
-        "value": "Prolific_Essence",
         "desc": "Passive",
         "class": ""
     },
@@ -30072,12 +29418,6 @@
         "class": ""
     },
     {
-        "label": "Prospector's Luck",
-        "value": "Prospectors_Luck",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Prosperity",
         "value": "Prosperity",
         "desc": "Divination Cards",
@@ -30090,12 +29430,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Protect The Altar",
-        "value": "Protect_The_Altar",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Protection Mastery",
         "value": "Protection_Mastery",
         "desc": "Passive",
@@ -30106,24 +29440,6 @@
         "value": "Protective_Link",
         "desc": "Skill Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Protracted Battle",
-        "value": "Protracted_Battle",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Protracted Siege",
-        "value": "Protracted_Siege",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Prove Yourself Worthy",
-        "value": "Prove_Yourself_Worthy",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Provisioning Wombgift",
@@ -30672,12 +29988,6 @@
         "class": ""
     },
     {
-        "label": "Rampant Growth",
-        "value": "Rampant_Growth",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Rampart",
         "value": "Rampart",
         "desc": "Passive",
@@ -30747,12 +30057,6 @@
         "label": "Ratcheting Ring",
         "value": "Ratcheting_Ring",
         "desc": "Rings",
-        "class": ""
-    },
-    {
-        "label": "Rather Not",
-        "value": "Rather_Not",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -30844,12 +30148,6 @@
         "value": "Reach_of_the_Council",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Reactive Swarm",
-        "value": "Reactive_Swarm",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Readiness",
@@ -31272,18 +30570,6 @@
         "class": ""
     },
     {
-        "label": "Remarkable Relics",
-        "value": "Remarkable_Relics",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Remembered Kindness",
-        "value": "Remembered_Kindness",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Remembered Origins",
         "value": "Remembered_Origins",
         "desc": "Passive",
@@ -31306,12 +30592,6 @@
         "value": "Remnant_of_Empires",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Remnants of the Past",
-        "value": "Remnants_of_the_Past",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Rend",
@@ -32028,12 +31308,6 @@
         "class": ""
     },
     {
-        "label": "Resource Reallocation",
-        "value": "Resource_Reallocation",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Resourcefulness",
         "value": "Resourcefulness",
         "desc": "Passive",
@@ -32550,12 +31824,6 @@
         "class": ""
     },
     {
-        "label": "Rogue Trader",
-        "value": "Rogue_Trader",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Rogue exile",
         "value": "Rogue_exile",
         "desc": "Wiki",
@@ -32700,12 +31968,6 @@
         "class": ""
     },
     {
-        "label": "Royal Guard",
-        "value": "Royal_Guard",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Royal Meeting Room",
         "value": "Royal_Meeting_Room",
         "desc": "Incursion Room",
@@ -32757,12 +32019,6 @@
         "label": "Ruby Ring",
         "value": "Ruby_Ring",
         "desc": "Rings",
-        "class": ""
-    },
-    {
-        "label": "Ruckus",
-        "value": "Ruckus",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -33318,12 +32574,6 @@
         "class": ""
     },
     {
-        "label": "Sacred Lands",
-        "value": "Sacred_Lands",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Sacred Life Flask",
         "value": "Sacred_Life_Flask",
         "desc": "Life Flasks",
@@ -33393,12 +32643,6 @@
         "label": "Sacrificial Chamber",
         "value": "Sacrificial_Chamber",
         "desc": "Incursion Room",
-        "class": ""
-    },
-    {
-        "label": "Sacrificial Due",
-        "value": "Sacrificial_Due",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -33822,6 +33066,12 @@
         "class": ""
     },
     {
+        "label": "Saqawine Talisman",
+        "value": "Saqawine_Talisman",
+        "desc": "Amulets",
+        "class": ""
+    },
+    {
         "label": "Saresh Bloodline",
         "value": "Saresh_Bloodline",
         "desc": "Bloodline",
@@ -34032,12 +33282,6 @@
         "class": ""
     },
     {
-        "label": "Scent of Blood",
-        "value": "Scent_of_Blood",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Sceptre Pinnacle",
         "value": "Sceptre_Pinnacle",
         "desc": "Timeless Jewel",
@@ -34170,12 +33414,6 @@
         "class": "item_currency"
     },
     {
-        "label": "Scratchin' up the Ground",
-        "value": "Scratchin_up_the_Ground",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Screaming Essence of Anger",
         "value": "Screaming_Essence_of_Anger",
         "desc": "Stackable Currency",
@@ -34302,12 +33540,6 @@
         "class": ""
     },
     {
-        "label": "Screaming Whispers",
-        "value": "Screaming_Whispers",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Screams of the Desiccated",
         "value": "Screams_of_the_Desiccated",
         "desc": "Unique",
@@ -34366,12 +33598,6 @@
         "value": "Sealed_Domain",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Seance",
-        "value": "Seance",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Searching Eye Jewel",
@@ -34491,18 +33717,6 @@
         "label": "Secondary damage",
         "value": "Secondary_damage",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Secret Compartments",
-        "value": "Secret_Compartments",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Secret Stash",
-        "value": "Secret_Stash",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -34984,24 +34198,6 @@
         "value": "Shapers_Touch",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Shaping the Mountains",
-        "value": "Shaping_the_Mountains",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Shaping the Skies",
-        "value": "Shaping_the_Skies",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Shaping the World",
-        "value": "Shaping_the_World",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Shard of Fate",
@@ -35538,12 +34734,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Significant Troves",
-        "value": "Significant_Troves",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Silence",
         "value": "Silence",
         "desc": "Wiki",
@@ -35838,12 +35028,6 @@
         "class": ""
     },
     {
-        "label": "Skills Shortage",
-        "value": "Skills_Shortage",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Skin of the Lords",
         "value": "Skin_of_the_Lords",
         "desc": "Unique",
@@ -35868,12 +35052,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "Skittering Darkness",
-        "value": "Skittering_Darkness",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Skittering Delirium Orb",
         "value": "Skittering_Delirium_Orb",
         "desc": "Stackable Currency",
@@ -35888,12 +35066,6 @@
     {
         "label": "Skittering Runes",
         "value": "Skittering_Runes",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Skittering Swarms",
-        "value": "Skittering_Swarms",
         "desc": "Passive",
         "class": ""
     },
@@ -35955,12 +35127,6 @@
         "label": "Slaughter Knife",
         "value": "Slaughter_Knife",
         "desc": "Rune Daggers",
-        "class": ""
-    },
-    {
-        "label": "Slaughter Them All",
-        "value": "Slaughter_Them_All",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -37188,12 +36354,6 @@
         "class": ""
     },
     {
-        "label": "Stand Your Ground",
-        "value": "Stand_Your_Ground",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Standard Lockpick",
         "value": "Standard_Lockpick",
         "desc": "Heist Tools",
@@ -37872,12 +37032,6 @@
         "class": "gemitem"
     },
     {
-        "label": "Sturdy Construction",
-        "value": "Sturdy_Construction",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Stygian Spire",
         "value": "Stygian_Spire",
         "desc": "Monster",
@@ -37947,12 +37101,6 @@
         "label": "Sudden Ignition",
         "value": "Sudden_Ignition",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Sulphite Infusion",
-        "value": "Sulphite_Infusion",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -38250,12 +37398,6 @@
         "class": ""
     },
     {
-        "label": "Supplication",
-        "value": "Supplication",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Support",
         "value": "Support",
         "desc": "Gem Tags",
@@ -38376,12 +37518,6 @@
         "class": ""
     },
     {
-        "label": "Survive The Assault",
-        "value": "Survive_The_Assault",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Survivor's Guilt",
         "value": "Survivors_Guilt",
         "desc": "Unique",
@@ -38391,12 +37527,6 @@
         "label": "Susara, Siren of Pondium",
         "value": "Susara%2C_Siren_of_Pondium",
         "desc": "Monster",
-        "class": ""
-    },
-    {
-        "label": "Sustained Horde",
-        "value": "Sustained_Horde",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -38412,21 +37542,9 @@
         "class": ""
     },
     {
-        "label": "Swarming Hive",
-        "value": "Swarming_Hive",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Sweep",
         "value": "Sweep",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Swelling Ranks",
-        "value": "Swelling_Ranks",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -38490,12 +37608,6 @@
         "class": ""
     },
     {
-        "label": "Syncretism",
-        "value": "Syncretism",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Syndicate Medallion",
         "value": "Syndicate_Medallion",
         "desc": "Map Fragments",
@@ -38517,12 +37629,6 @@
         "label": "Synthesis league",
         "value": "Synthesis_league",
         "desc": "Wiki",
-        "class": ""
-    },
-    {
-        "label": "Synthesised Stability",
-        "value": "Synthesised_Stability",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -38572,12 +37678,6 @@
         "value": "Tainted_Blacksmiths_Whetstone",
         "desc": "Stackable Currency",
         "class": "item_currency"
-    },
-    {
-        "label": "Tainted Carapaces",
-        "value": "Tainted_Carapaces",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Tainted Catalyst",
@@ -38673,12 +37773,6 @@
         "label": "Talon Axe",
         "value": "Talon_Axe",
         "desc": "Two Hand Axes",
-        "class": ""
-    },
-    {
-        "label": "Tamper-Proof",
-        "value": "Tamper-Proof",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -39252,12 +38346,6 @@
         "class": "item_currency"
     },
     {
-        "label": "Templar Ingenuity",
-        "value": "Templar_Ingenuity",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Temple Defense Workshop",
         "value": "Temple_Defense_Workshop",
         "desc": "Incursion Room",
@@ -39372,20 +38460,8 @@
         "class": ""
     },
     {
-        "label": "Test of Loyalty",
-        "value": "Test_of_Loyalty",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Testudo",
         "value": "Testudo",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "That Which You Seek",
-        "value": "That_Which_You_Seek",
         "desc": "Passive",
         "class": ""
     },
@@ -40278,6 +39354,12 @@
         "class": "divination"
     },
     {
+        "label": "The Draugur's Lantern",
+        "value": "The_Draugurs_Lantern",
+        "desc": "Unique",
+        "class": "UniqueItem"
+    },
+    {
         "label": "The Dreadstone",
         "value": "The_Dreadstone",
         "desc": "Monster",
@@ -40312,12 +39394,6 @@
         "value": "The_Dungeon_Master",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "The Dutiful Soldier",
-        "value": "The_Dutiful_Soldier",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "The Dweller of the Deep",
@@ -41028,30 +40104,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "The Hunt for Craiceann",
-        "value": "The_Hunt_for_Craiceann",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "The Hunt for Farrul",
-        "value": "The_Hunt_for_Farrul",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "The Hunt for Fenumus",
-        "value": "The_Hunt_for_Fenumus",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "The Hunt for Saqawal",
-        "value": "The_Hunt_for_Saqawal",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "The Ignomon",
         "value": "The_Ignomon",
         "desc": "Unique",
@@ -41274,12 +40326,6 @@
         "class": "divination"
     },
     {
-        "label": "The Light of Dawn",
-        "value": "The_Light_of_Dawn",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "The Light of Meaning",
         "value": "The_Light_of_Meaning",
         "desc": "Unique",
@@ -41454,12 +40500,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "The Most Toys",
-        "value": "The_Most_Toys",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "The Mountain",
         "value": "The_Mountain",
         "desc": "Divination Cards",
@@ -41598,12 +40638,6 @@
         "class": "UniqueItem"
     },
     {
-        "label": "The Paths Not Taken",
-        "value": "The_Paths_Not_Taken",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "The Patient",
         "value": "The_Patient",
         "desc": "Divination Cards",
@@ -41692,12 +40726,6 @@
         "value": "The_Price_of_Prescience",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "The Price of Progress",
-        "value": "The_Price_of_Progress",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "The Price of Protection",
@@ -42042,12 +41070,6 @@
         "class": "divination"
     },
     {
-        "label": "The Shadow of Hunger",
-        "value": "The_Shadow_of_Hunger",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "The Shaper",
         "value": "The_Shaper",
         "desc": "Monster",
@@ -42112,12 +41134,6 @@
         "value": "The_Silly_Boy",
         "desc": "Divination Cards",
         "class": "divination"
-    },
-    {
-        "label": "The Singular Eternity",
-        "value": "The_Singular_Eternity",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "The Siren",
@@ -43164,12 +42180,6 @@
         "class": ""
     },
     {
-        "label": "Time Dilation",
-        "value": "Time_Dilation",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Time of Need",
         "value": "Time_of_Need",
         "desc": "Passive",
@@ -43548,12 +42558,6 @@
         "class": ""
     },
     {
-        "label": "Torn Veil",
-        "value": "Torn_Veil",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Tornado",
         "value": "Tornado",
         "desc": "Skill Gems",
@@ -43668,12 +42672,6 @@
         "class": "gemitem"
     },
     {
-        "label": "Towering Carapaces",
-        "value": "Towering_Carapaces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Towering Threat",
         "value": "Towering_Threat",
         "desc": "Cluster Jewel",
@@ -43732,12 +42730,6 @@
         "value": "Trade_Embargo",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Trail of Destruction",
-        "value": "Trail_of_Destruction",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Tranquility",
@@ -43848,12 +42840,6 @@
         "class": ""
     },
     {
-        "label": "Trapping Carapaces",
-        "value": "Trapping_Carapaces",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Trapsetter Gloves",
         "value": "Trapsetter_Gloves",
         "desc": "Gloves",
@@ -43890,12 +42876,6 @@
         "class": ""
     },
     {
-        "label": "Trarthan Vapours",
-        "value": "Trarthan_Vapours",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Trarthus Gems",
         "value": "Trarthus_Gems",
         "desc": "Wiki",
@@ -43906,12 +42886,6 @@
         "value": "Trauma_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Traumatic Experience",
-        "value": "Traumatic_Experience",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Traumatic Fragment",
@@ -43929,12 +42903,6 @@
         "label": "Travel",
         "value": "Travel",
         "desc": "Gem Tags",
-        "class": ""
-    },
-    {
-        "label": "Treasure Hunt",
-        "value": "Treasure_Hunt",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -43966,12 +42934,6 @@
         "value": "Triad_Grip",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Trial of Glory",
-        "value": "Trial_of_Glory",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Trial of the Ancestors",
@@ -44268,12 +43230,6 @@
         "class": ""
     },
     {
-        "label": "Twice Tempted",
-        "value": "Twice_Tempted",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Twig Spirit Shield",
         "value": "Twig_Spirit_Shield",
         "desc": "Shields",
@@ -44364,12 +43320,6 @@
         "class": ""
     },
     {
-        "label": "Two-Hearted Hunt",
-        "value": "Two-Hearted_Hunt",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Two-Point Arrow Quiver",
         "value": "Two-Point_Arrow_Quiver",
         "desc": "Quivers",
@@ -44421,6 +43371,18 @@
         "label": "Uhtred, Covetous Traitor",
         "value": "Uhtred%2C_Covetous_Traitor",
         "desc": "Monster",
+        "class": ""
+    },
+    {
+        "label": "Ukatoa's Ducat",
+        "value": "Ukatoas_Ducat",
+        "desc": "Stackable Currency",
+        "class": "item_currency"
+    },
+    {
+        "label": "Ulaman Faction",
+        "value": "Ulaman_Faction",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -44532,12 +43494,6 @@
         "class": "divination"
     },
     {
-        "label": "Underground Kingdom",
-        "value": "Underground_Kingdom",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Undertaker",
         "value": "Undertaker",
         "desc": "Passive",
@@ -44584,12 +43540,6 @@
         "value": "Unending_Nightmare",
         "desc": "Unique",
         "class": "UniqueItem"
-    },
-    {
-        "label": "Unexpected Stranger",
-        "value": "Unexpected_Stranger",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Unfaltering",
@@ -44656,12 +43606,6 @@
         "value": "Unholy_Trinity_Support",
         "desc": "Support Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Unimaginable Horrors",
-        "value": "Unimaginable_Horrors",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Unique Collection Tab",
@@ -44744,12 +43688,6 @@
     {
         "label": "Unrelenting",
         "value": "Unrelenting",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Unrelenting Torment",
-        "value": "Unrelenting_Torment",
         "desc": "Passive",
         "class": ""
     },
@@ -44870,12 +43808,6 @@
     {
         "label": "Unwavering Stance",
         "value": "Unwavering_Stance",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Unwavering Vision",
-        "value": "Unwavering_Vision",
         "desc": "Passive",
         "class": ""
     },
@@ -45390,12 +44322,6 @@
         "class": "gemitem"
     },
     {
-        "label": "Vaal Oligarchs",
-        "value": "Vaal_Oligarchs",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Vaal Orb",
         "value": "Vaal_Orb",
         "desc": "Stackable Currency",
@@ -45720,12 +44646,6 @@
         "class": ""
     },
     {
-        "label": "Vault of Mysteries",
-        "value": "Vault_of_Mysteries",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Vaults of Atziri",
         "value": "Vaults_of_Atziri",
         "desc": "Unique",
@@ -45868,12 +44788,6 @@
         "value": "Verdant_Oil",
         "desc": "Stackable Currency",
         "class": "item_currency"
-    },
-    {
-        "label": "Verisium Infusion",
-        "value": "Verisium_Infusion",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Veritania's Citadel Map",
@@ -46350,12 +45264,6 @@
         "class": ""
     },
     {
-        "label": "Violent Skirmish",
-        "value": "Violent_Skirmish",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Violet Oil",
         "value": "Violet_Oil",
         "desc": "Stackable Currency",
@@ -46452,21 +45360,9 @@
         "class": "item_currency"
     },
     {
-        "label": "Vivid Drought",
-        "value": "Vivid_Drought",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Vivid Hues",
         "value": "Vivid_Hues",
         "desc": "Cluster Jewel",
-        "class": ""
-    },
-    {
-        "label": "Vivid Memories",
-        "value": "Vivid_Memories",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -46794,12 +45690,6 @@
         "class": ""
     },
     {
-        "label": "Voracious Throng",
-        "value": "Voracious_Throng",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Vorana's March",
         "value": "Voranas_March",
         "desc": "Unique",
@@ -46834,12 +45724,6 @@
         "value": "Vortex_of_Projection",
         "desc": "Skill Gems",
         "class": "gemitem"
-    },
-    {
-        "label": "Votive Hoard",
-        "value": "Votive_Hoard",
-        "desc": "Passive",
-        "class": ""
     },
     {
         "label": "Vulconus",
@@ -47073,12 +45957,6 @@
         "label": "War Plate",
         "value": "War_Plate",
         "desc": "Body Armours",
-        "class": ""
-    },
-    {
-        "label": "War Supplies",
-        "value": "War_Supplies",
-        "desc": "Passive",
         "class": ""
     },
     {
@@ -47682,12 +46560,6 @@
         "class": "item_currency"
     },
     {
-        "label": "Wild Drought",
-        "value": "Wild_Drought",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Wild Growth",
         "value": "Wild_Growth",
         "desc": "Passive",
@@ -48222,12 +47094,6 @@
         "class": ""
     },
     {
-        "label": "Word of the Exarch",
-        "value": "Word_of_the_Exarch",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
         "label": "Workshop",
         "value": "Workshop",
         "desc": "Incursion Room",
@@ -48254,24 +47120,6 @@
     {
         "label": "Worthy Foe",
         "value": "Worthy_Foe",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Worthy of the Future",
-        "value": "Worthy_of_the_Future",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Worthy of the Past",
-        "value": "Worthy_of_the_Past",
-        "desc": "Passive",
-        "class": ""
-    },
-    {
-        "label": "Worthy of the Present",
-        "value": "Worthy_of_the_Present",
         "desc": "Passive",
         "class": ""
     },
@@ -48525,12 +47373,6 @@
         "label": "Yew Spirit Shield",
         "value": "Yew_Spirit_Shield",
         "desc": "Shields",
-        "class": ""
-    },
-    {
-        "label": "Yield Upon Yield",
-        "value": "Yield_Upon_Yield",
-        "desc": "Passive",
         "class": ""
     },
     {

@@ -7,13 +7,6 @@
       "TargetType": "Entity"
     },
     {
-      "Name": "*Mercenaries*",
-      "ExpectedCount": 99,
-      "DisplayName": "佣兵",
-      "TargetType": "Entity"
-    },
-
-    {
       "Name": "waypoint",
       "ExpectedCount": 1,
       "DisplayName": "传送点"

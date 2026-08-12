@@ -12,6 +12,24 @@
         "class": ""
     },
     {
+        "label": "3.29.0b 更新公告",
+        "value": "Version_3.29.0b",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "3.29.1 更新公告",
+        "value": "Version_3.29.1",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "3.29.2 更新公告",
+        "value": "Version_3.29.2",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
         "label": "Alternate artwork",
         "value": "Alternate_artwork",
         "desc": "Wiki",
@@ -86,6 +104,12 @@
     {
         "label": "Phase Run",
         "value": "Phase_Run",
+        "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "PobTools — Path of Building 繁體中文化啟動器",
+        "value": "PobTools",
         "desc": "Wiki",
         "class": ""
     },
@@ -8964,6 +8988,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "奎爾珊魔符",
+        "value": "Craicic_Talisman",
+        "desc": "項鍊",
+        "class": ""
+    },
+    {
         "label": "契約書",
         "value": "Contracts",
         "desc": "Item Classes",
@@ -11092,6 +11122,18 @@
         "value": "Detonate_Dead_of_Chain_Reaction",
         "desc": "技能寶石",
         "class": "gemitem"
+    },
+    {
+        "label": "屍鬼之焰",
+        "value": "Draugurflame",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
+        "label": "屍鬼提燈",
+        "value": "The_Draugurs_Lantern",
+        "desc": "傳奇",
+        "class": "UniqueItem"
     },
     {
         "label": "屠夫刀",
@@ -15474,6 +15516,12 @@
         "class": ""
     },
     {
+        "label": "拼湊之眼珠寶",
+        "value": "Assembled_Eye_Jewel",
+        "desc": "深淵珠寶",
+        "class": ""
+    },
+    {
         "label": "拿瑪乎之印",
         "value": "Ngamahus_Sign",
         "desc": "傳奇",
@@ -16383,6 +16431,12 @@
         "label": "斯卡沃眼鏡蛇神靈",
         "value": "Saqawine_Cobra_Spirit",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "斯卡沃魔符",
+        "value": "Saqawine_Talisman",
+        "desc": "項鍊",
         "class": ""
     },
     {
@@ -18045,6 +18099,12 @@
         "label": "查蘭之劍",
         "value": "Charans_Sword",
         "desc": "單手劍",
+        "class": ""
+    },
+    {
+        "label": "柯戈勢力",
+        "value": "Kurgal_Faction",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -21054,6 +21114,12 @@
         "class": ""
     },
     {
+        "label": "深淵靈魂",
+        "value": "Abyssal_Souls",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "深淵魅影莉瑪",
         "value": "Rima%2C_Deep_Temptress",
         "desc": "怪物",
@@ -22332,6 +22398,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "烏卡托瓦的達克特",
+        "value": "Ukatoas_Ducat",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "烏圖拉的飢餓",
         "value": "Utulas_Hunger",
         "desc": "傳奇",
@@ -22341,6 +22413,12 @@
         "label": "烏姆布拉的薛朗",
         "value": "Shavronne_of_Umbra",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "烏拉曼勢力",
+        "value": "Ulaman_Faction",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -22803,6 +22881,12 @@
         "label": "無盡掘獄",
         "value": "Endless_Delve",
         "desc": "Wiki",
+        "class": ""
+    },
+    {
+        "label": "無盡深淵",
+        "value": "Abyssal_Depths",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -27768,6 +27852,12 @@
         "class": "item_currency"
     },
     {
+        "label": "白化螃蟹鉗子",
+        "value": "Albino_Crab_Claw",
+        "desc": "可堆疊通貨",
+        "class": "item_currency"
+    },
+    {
         "label": "白岩",
         "value": "Gneiss",
         "desc": "怪物",
@@ -30315,6 +30405,12 @@
         "label": "竊魂者",
         "value": "Soul_Thief",
         "desc": "天賦",
+        "class": ""
+    },
+    {
+        "label": "章魚魔符",
+        "value": "Octopus_Talisman",
+        "desc": "項鍊",
         "class": ""
     },
     {
@@ -34938,6 +35034,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "菲恩絲魔符",
+        "value": "Fenumal_Talisman",
+        "desc": "項鍊",
+        "class": ""
+    },
+    {
         "label": "菲恩絲魘甲",
         "value": "Fenumus_Shroud",
         "desc": "傳奇",
@@ -35967,6 +36069,12 @@
         "label": "蝮鱗手套",
         "value": "Wyrmscale_Gauntlets",
         "desc": "手套",
+        "class": ""
+    },
+    {
+        "label": "螃蟹圖騰",
+        "value": "Crab_Totem",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -38223,6 +38331,12 @@
         "label": "貴族長杖",
         "value": "Highborn_Staff",
         "desc": "長杖",
+        "class": ""
+    },
+    {
+        "label": "買兇殺人",
+        "value": "Contract_Killers",
+        "desc": "天賦",
         "class": ""
     },
     {
@@ -42432,6 +42546,12 @@
         "class": "divination"
     },
     {
+        "label": "阿姆那姆勢力",
+        "value": "Amanamu_Faction",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "阿姆那姆的邪眼",
         "value": "Amanamus_Gaze",
         "desc": "傳奇",
@@ -45036,6 +45156,12 @@
         "class": ""
     },
     {
+        "label": "骸骨吞噬者",
+        "value": "Bone_Feeders",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "骸骨奉獻",
         "value": "Bone_Offering",
         "desc": "技能寶石",
@@ -45930,6 +46056,12 @@
         "class": ""
     },
     {
+        "label": "鳴蛙魔符",
+        "value": "Croaker_Talisman",
+        "desc": "項鍊",
+        "class": ""
+    },
+    {
         "label": "鴻溝",
         "value": "The_Gulf",
         "desc": "命運卡",
@@ -45987,12 +46119,6 @@
         "label": "鹹水腐化",
         "value": "Brine_Rot",
         "desc": "天賦",
-        "class": ""
-    },
-    {
-        "label": "鹽水裂隙",
-        "value": "Brinecrack",
-        "desc": "怪物",
         "class": ""
     },
     {

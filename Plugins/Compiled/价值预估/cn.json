@@ -2268,12 +2268,6 @@
         "class": ""
     },
     {
-        "label": "元素洁癖",
-        "value": "Voracious_Flame",
-        "desc": "天赋",
-        "class": ""
-    },
-    {
         "label": "元素激变之龙卷旋风",
         "value": "Tornado_of_Elemental_Turbulence",
         "desc": "技能宝石",
@@ -2296,6 +2290,12 @@
         "value": "Elemental_Penetration_Support",
         "desc": "辅助宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "元素荆棘",
+        "value": "Elemental_Thorns",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "元素虚空",
@@ -4810,6 +4810,12 @@
         "value": "Shock_Nova_of_Procession",
         "desc": "技能宝石",
         "class": "gemitem"
+    },
+    {
+        "label": "加权交换",
+        "value": "Weighted_Exchange",
+        "desc": "永恒珠宝",
+        "class": ""
     },
     {
         "label": "加速催化剂",
@@ -13212,6 +13218,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "幽影复制体",
+        "value": "Ghostly_Copies",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "幽影巨斧",
         "value": "Shadow_Axe",
         "desc": "双手斧",
@@ -14445,6 +14457,12 @@
         "label": "忘川之影",
         "value": "Lethe_Shade",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "忠信之众",
+        "value": "The_Loyal_Few",
+        "desc": "永恒珠宝",
         "class": ""
     },
     {
@@ -18528,6 +18546,12 @@
         "class": ""
     },
     {
+        "label": "明珠暗投",
+        "value": "Pearls_Before_Swine",
+        "desc": "命运卡",
+        "class": "divination"
+    },
+    {
         "label": "明镜",
         "value": "House_of_Mirrors",
         "desc": "命运卡",
@@ -18814,6 +18838,12 @@
         "value": "Fenumus_Weave",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "暗夜魔符",
+        "value": "Fenumal_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "暗影",
@@ -22872,6 +22902,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "深海魔符",
+        "value": "Craicic_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "深海魔角",
         "value": "Craiceanns_Chitin",
         "desc": "传奇",
@@ -22956,6 +22992,12 @@
         "class": ""
     },
     {
+        "label": "深渊掠行保险箱",
+        "value": "Abyssal_Skitterlock",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "深渊斗士",
         "value": "Pitfighter",
         "desc": "星团珠宝",
@@ -23001,6 +23043,12 @@
         "label": "深渊血脉",
         "value": "Abyssal_Bloodline",
         "desc": "Bloodline",
+        "class": ""
+    },
+    {
+        "label": "深渊配偶",
+        "value": "Abyssal_Consort",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -23349,6 +23397,12 @@
         "label": "滑布外套",
         "value": "Sleek_Coat",
         "desc": "胸甲",
+        "class": ""
+    },
+    {
+        "label": "滔天憎恨",
+        "value": "Overwhelming_Hate",
+        "desc": "永恒珠宝",
         "class": ""
     },
     {
@@ -25353,6 +25407,12 @@
         "label": "物理专精",
         "value": "Physical_Mastery",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "物理荆棘",
+        "value": "Physical_Thorns",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -27828,6 +27888,12 @@
         "class": "item_currency"
     },
     {
+        "label": "白化的蟹爪",
+        "value": "Albino_Crab_Claw",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "白岩",
         "value": "Gneiss",
         "desc": "怪物",
@@ -28143,6 +28209,12 @@
         "label": "直攻要害",
         "value": "Pressure_Points",
         "desc": "星团珠宝",
+        "class": ""
+    },
+    {
+        "label": "直线射程",
+        "value": "Direct_Flight",
+        "desc": "Keywords",
         "class": ""
     },
     {
@@ -29244,6 +29316,12 @@
         "class": "UniqueItem"
     },
     {
+        "label": "神性碎片",
+        "value": "Divine_Shard",
+        "desc": "命运卡",
+        "class": "divination"
+    },
+    {
         "label": "神性统帅",
         "value": "Marshal_of_Divinity",
         "desc": "天赋",
@@ -30220,6 +30298,12 @@
         "value": "The_Arena_Champion",
         "desc": "命运卡",
         "class": "divination"
+    },
+    {
+        "label": "章鱼魔符",
+        "value": "Octopus_Talisman",
+        "desc": "项链",
+        "class": ""
     },
     {
         "label": "竭血之镰",
@@ -31800,6 +31884,12 @@
         "class": ""
     },
     {
+        "label": "翻涌雷暴",
+        "value": "Roiling_Tempest",
+        "desc": "Keywords",
+        "class": ""
+    },
+    {
         "label": "耀日",
         "value": "Invictus_Solaris",
         "desc": "传奇",
@@ -31870,6 +31960,12 @@
         "value": "Grand_Spectrum",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "聚合之凝珠宝",
+        "value": "Assembled_Eye_Jewel",
+        "desc": "深渊珠宝",
+        "class": ""
     },
     {
         "label": "聚合魔符",
@@ -33216,6 +33312,12 @@
         "class": ""
     },
     {
+        "label": "苍空魔符",
+        "value": "Saqawine_Talisman",
+        "desc": "项链",
+        "class": ""
+    },
+    {
         "label": "苍蟒之鳞",
         "value": "Slitherpinch",
         "desc": "传奇",
@@ -33232,6 +33334,12 @@
         "value": "The_Chains_of_Castigation",
         "desc": "传奇",
         "class": "UniqueItem"
+    },
+    {
+        "label": "苦寒之霜",
+        "value": "Bitter_Frost",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "苦梦",
@@ -35496,6 +35604,12 @@
         "class": ""
     },
     {
+        "label": "西亚克桑纪念币",
+        "value": "Cyaxans_Ducat",
+        "desc": "可堆叠通货",
+        "class": "item_currency"
+    },
+    {
         "label": "西亚克桑霸权",
         "value": "Cyaxan_Supremacy",
         "desc": "天赋",
@@ -36112,6 +36226,12 @@
         "value": "Grasping_Astrolabe",
         "desc": "可堆叠通货",
         "class": "item_currency"
+    },
+    {
+        "label": "贪婪火焰",
+        "value": "Voracious_Flame",
+        "desc": "Keywords",
+        "class": ""
     },
     {
         "label": "贪婪诸神",
@@ -37782,12 +37902,6 @@
         "class": ""
     },
     {
-        "label": "邃狱之深渊圣甲虫",
-        "value": "Abyss_Scarab_of_the_Consort",
-        "desc": "地图碎片",
-        "class": ""
-    },
-    {
         "label": "邪恶之眼",
         "value": "Evil_Eye",
         "desc": "星团珠宝",
@@ -37899,6 +38013,12 @@
         "label": "酋长魔符",
         "value": "Chieftain_Talisman",
         "desc": "项链",
+        "class": ""
+    },
+    {
+        "label": "配偶之深渊圣甲虫",
+        "value": "Abyss_Scarab_of_the_Consort",
+        "desc": "地图碎片",
         "class": ""
     },
     {
@@ -38025,6 +38145,12 @@
         "label": "重整资源",
         "value": "Resource_Reallocation",
         "desc": "天赋",
+        "class": ""
+    },
+    {
+        "label": "重构精华",
+        "value": "Reconstructed_Essence",
+        "desc": "永恒珠宝",
         "class": ""
     },
     {
@@ -41190,6 +41316,12 @@
         "class": ""
     },
     {
+        "label": "飞掠黑暗",
+        "value": "Skittering_Darkness",
+        "desc": "天赋",
+        "class": ""
+    },
+    {
         "label": "飞棘魔",
         "value": "Needle_Horror",
         "desc": "灵柩",
@@ -42279,6 +42411,12 @@
         "label": "鸟魔",
         "value": "Demon_Harpy",
         "desc": "怪物",
+        "class": ""
+    },
+    {
+        "label": "鸣蛙魔符",
+        "value": "Croaker_Talisman",
+        "desc": "项链",
         "class": ""
     },
     {

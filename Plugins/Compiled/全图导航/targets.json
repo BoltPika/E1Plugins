@@ -1,12 +1,6 @@
 {
   "*": [
     {
-      "Name": "Metadata/Terrain/Leagues/Ritual/RitualRuneObject",
-      "ExpectedCount": 99,
-      "DisplayName": "祭祀神坛",
-      "TargetType": "Entity"
-    },
-    {
       "Name": "waypoint",
       "ExpectedCount": 1,
       "DisplayName": "传送点"
@@ -2350,7 +2344,7 @@
    {
       "Name": "*",
       "Rooms": [ "*boss*" ],
-      "ExpectedCount": 8,
+      "ExpectedCount": 10,
       "DisplayName": "Boss"
     }
   ]
